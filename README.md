@@ -172,159 +172,115 @@ lectures</p></th>
 <th><p>Total<br />
 duration</p></th>
 <th><p>Code</p></th>
-<th><p>Course description</p></th>
 <th><p>URL 1</p></th>
 <th><p>URL 2</p></th>
 </tr>
 </thead>
-<tbody>
 <tr class="odd">
-<td><p><strong>Principles of Chemical Science</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Catherine_Drennan" title="wikilink">Catherine
-Drennan</a>, <a href="Elizabeth_Vogel_Taylor" title="wikilink">Elizabeth
-Vogel Taylor</a></p></td>
-<td><p>English</p></td>
-<td><p>2008.</p></td>
-<td><p>36</p></td>
-<td><p>27h</p></td>
-<td><p>5.111</p></td>
-<td><p>This course provides an introduction to the chemistry of
-biological, inorganic, and organic molecules. The emphasis is on basic
-principles of atomic and molecular electronic structure, thermodynamics,
-acid-base and redox equilibria, chemical kinetics, and
-catalysis.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL2902385153144A26">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/chemistry/5-111-principles-of-chemical-science-fall-2008/">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Freshman Organic Chemistry I</strong></p></td>
-<td><p><a href="Yale_University" title="wikilink">Yale
-University</a></p></td>
-<td><p><a href="J._Michael_McBride" title="wikilink">J. Michael
-McBride</a></p></td>
-<td><p>English</p></td>
-<td><p>2008.</p></td>
-<td><p>37</p></td>
-<td><p>30h</p></td>
-<td><p>CHEM 125a</p></td>
-<td><p>This is the first semester in a two-semester introductory course
-focused on current theories of structure and mechanism in organic
-chemistry, their historical development, and their basis in experimental
-observation. The course is open to freshmen with excellent preparation
-in chemistry and physics, and it aims to develop both taste for original
-science and intellectual skills necessary for creative
-research.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL3F629F73640F831D">Youtube
-list</a></p></td>
-<td><p><a href="https://oyc.yale.edu/chemistry/chem-125a">Web
-page</a></p></td>
+    <td rowspan="2"><strong>Principles of Chemical Science</strong></td>
+    <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+    <td><a href="Catherine_Drennan" title="wikilink">Catherine Drennan</a>, <a href="Elizabeth_Vogel_Taylor" title="wikilink">Elizabeth Vogel Taylor</a></td>
+    <td>English</td>
+    <td>2008</td>
+    <td>36</td>
+    <td>27h</td>
+    <td>5.111</td>
+    <td><a href="https://www.youtube.com/playlist?list=PL2902385153144A26">Youtube list</a></td>
+    <td><a href="https://ocw.mit.edu/courses/chemistry/5-111-principles-of-chemical-science-fall-2008/">Web page</a></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Freshman Organic Chemistry II</strong></p></td>
-<td><p><a href="Yale_University" title="wikilink">Yale
-University</a></p></td>
-<td><p><a href="J._Michael_McBride" title="wikilink">J. Michael
-McBride</a></p></td>
-<td><p>English</p></td>
-<td><p>2011.</p></td>
-<td><p>38</p></td>
-<td><p>31h</p></td>
-<td><p>CHEM 125b</p></td>
-<td><p>This is a continuation of Freshman Organic Chemistry I (CHEM
-125a), the introductory course on current theories of structure and
-mechanism in organic chemistry for students with excellent preparation
-in chemistry and physics. This semester treats simple and complex
-reaction mechanisms, spectroscopy, organic synthesis, and some molecules
-of nature.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLB572BA3ED0F700F1">Youtube
-list</a></p></td>
-<td><p><a href="https://oyc.yale.edu/chemistry/chem-125b">Web
-page</a></p></td>
+    <td colspan="9">This course provides an introduction to the chemistry of biological, inorganic, and organic molecules. The emphasis is on basic principles of atomic and molecular electronic structure, thermodynamics, acid-base and redox equilibria, chemical kinetics, and catalysis.</td>
+</tr>
+</table>
+
+<table>
+<tr class="even">
+    <td rowspan="2"><strong>Freshman Organic Chemistry I</strong></td>
+    <td><a href="Yale_University" title="wikilink">Yale University</a></td>
+    <td><a href="J._Michael_McBride" title="wikilink">J. Michael McBride</a></td>
+    <td>English</td>
+    <td>2008</td>
+    <td>37</td>
+    <td>30h</td>
+    <td>CHEM 125a</td>
+    <td><a href="https://www.youtube.com/playlist?list=PL3F629F73640F831D">Youtube list</a></td>
+    <td><a href="https://oyc.yale.edu/chemistry/chem-125a">Web page</a></td>
 </tr>
 <tr class="even">
-<td><p><strong>Small-Molecule Spectroscopy and
-Dynamics</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Robert_W._Field" title="wikilink">Robert
-Field</a></p></td>
-<td><p>English</p></td>
-<td><p>2008.</p></td>
-<td><p>38</p></td>
-<td><p>34h</p></td>
-<td><p>5.80</p></td>
-<td><p>The goal of this course is to illustrate the spectroscopy of
-small molecules in the gas phase: quantum mechanical effective
-Hamiltonian models for rotational, vibrational, and electronic
-structure; transition selection rules and relative intensities;
-diagnostic patterns and experimental methods for the assignment of
-non-textbook spectra; breakdown of the Born-Oppenheimer approximation
-(spectroscopic perturbations); the stationary phase approximation;
-nondegenerate and quasidegenerate perturbation theory (van Vleck
-transformation); qualitative molecular orbital theory (Walsh diagrams);
-the notation of atomic and molecular spectroscopy.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL683876BE6097A1C2">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/chemistry/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/">Web
-page</a></p></td>
+    <td colspan="9">This is the first semester in a two-semester introductory course focused on current theories of structure and mechanism in organic chemistry, their historical development, and their basis in experimental observation. The course is open to freshmen with excellent preparation in chemistry and physics, and it aims to develop both taste for original science and intellectual skills necessary for creative research.</td>
+</tr>
+</table>
+
+<table>
+<tr class="odd">
+    <td rowspan="2"><strong>Freshman Organic Chemistry II</strong></td>
+    <td><a href="Yale_University" title="wikilink">Yale University</a></td>
+    <td><a href="J._Michael_McBride" title="wikilink">J. Michael McBride</a></td>
+    <td>English</td>
+    <td>2011</td>
+    <td>38</td>
+    <td>31h</td>
+    <td>CHEM 125b</td>
+    <td><a href="https://www.youtube.com/playlist?list=PLB572BA3ED0F700F1">Youtube list</a></td>
+    <td><a href="https://oyc.yale.edu/chemistry/chem-125b">Web page</a></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Introduction to Solid State Chemistry</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Donald_Sadoway" title="wikilink">Donald
-Sadoway</a></p></td>
-<td><p>English</p></td>
-<td><p>2010.</p></td>
-<td><p>61</p></td>
-<td><p>35h</p></td>
-<td><p>3.091SC</p></td>
-<td><p>Introduction to Solid State Chemistry is a first-year
-single-semester college course on the principles of chemistry. This
-unique and popular course satisfies MIT's general chemistry degree
-requirement, with an emphasis on solid-state materials and their
-application to engineering systems.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL36EC6A6180271B0F">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/">Web
-page</a></p></td>
+    <td colspan="9">This is a continuation of Freshman Organic Chemistry I (CHEM 125a), the introductory course on current theories of structure and mechanism in organic chemistry for students with excellent preparation in chemistry and physics. This semester treats simple and complex reaction mechanisms, spectroscopy, organic synthesis, and some molecules of nature.</td>
+</tr>
+</table>
+
+<table>
+<tr class="even">
+    <td rowspan="2"><strong>Small-Molecule Spectroscopy and Dynamics</strong></td>
+    <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+    <td><a href="Robert_W._Field" title="wikilink">Robert Field</a></td>
+    <td>English</td>
+    <td>2008</td>
+    <td>38</td>
+    <td>34h</td>
+    <td>5.80</td>
+    <td><a href="https://www.youtube.com/playlist?list=PL683876BE6097A1C2">Youtube list</a></td>
+    <td><a href="https://ocw.mit.edu/courses/chemistry/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/">Web page</a></td>
 </tr>
 <tr class="even">
-<td><p><strong>Thermodynamics &amp; Kinetics in
-Chemistry</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Keith_A._Nelson" title="wikilink">Keith A. Nelson</a>,
-<a href="Moungi_Bawendi" title="wikilink">Moungi Bawendi</a></p></td>
-<td><p>English</p></td>
-<td><p>2008.</p></td>
-<td><p>36</p></td>
-<td><p>30h</p></td>
-<td><p>5.60</p></td>
-<td><p>This subject deals primarily with equilibrium properties of
-macroscopic systems, basic thermodynamics, chemical equilibrium of
-reactions in gas and solution phase, and rates of chemical
-reactions.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLA62087102CC93765">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/chemistry/5-60-thermodynamics-kinetics-spring-2008/">Web
-page</a></p></td>
+    <td colspan="9">The goal of this course is to illustrate the spectroscopy of small molecules in the gas phase: quantum mechanical effective Hamiltonian models for rotational, vibrational, and electronic structure; transition selection rules and relative intensities; diagnostic patterns and experimental methods for the assignment of non-textbook spectra; breakdown of the Born-Oppenheimer approximation (spectroscopic perturbations); the stationary phase approximation; nondegenerate and quasidegenerate perturbation theory (van Vleck transformation); qualitative molecular orbital theory (Walsh diagrams); the notation of atomic and molecular spectroscopy.</td>
 </tr>
-</tbody>
+</table>
+
+<table>
+<tr class="odd">
+    <td rowspan="2"><strong>Introduction to Solid State Chemistry</strong></td>
+    <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+    <td><a href="Donald_Sadoway" title="wikilink">Donald Sadoway</a></td>
+    <td>English</td>
+    <td>2010</td>
+    <td>61</td>
+    <td>35h</td>
+    <td>3.091SC</td>
+    <td><a href="https://www.youtube.com/playlist?list=PL36EC6A6180271B0F">Youtube list</a></td>
+    <td><a href="https://ocw.mit.edu/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/">Web page</a></td>
+</tr>
+<tr class="odd">
+    <td colspan="9">Introduction to Solid State Chemistry is a first-year single-semester college course on the principles of chemistry. This unique and popular course satisfies MIT's general chemistry degree requirement, with an emphasis on solid-state materials and their application to engineering systems.</td>
+</tr>
+</table>
+
+<table>
+<tr class="even">
+    <td rowspan="2"><strong>Thermodynamics & Kinetics in Chemistry</strong></td>
+    <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+    <td><a href="Keith_A._Nelson" title="wikilink">Keith A. Nelson</a>, <a href="Moungi_Bawendi" title="wikilink">Moungi Bawendi</a></td>
+    <td>English</td>
+    <td>2008</td>
+    <td>36</td>
+    <td>30h</td>
+    <td>5.60</td>
+    <td><a href="https://www.youtube.com/playlist?list=PLA62087102CC93765">Youtube list</a></td>
+    <td><a href="https://ocw.mit.edu/courses/chemistry/5-60-thermodynamics-kinetics-spring-2008/">Web page</a></td>
+</tr>
+<tr class="even">
+    <td colspan="9">This subject deals primarily with equilibrium properties of macroscopic systems, basic thermodynamics, chemical equilibrium of reactions in gas and solution phase, and rates of chemical reactions.</td>
+</tr>
 </table>
 
 ## Computer science
