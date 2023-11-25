@@ -67,205 +67,94 @@ duration</p></th>
     </tr>
 </table>
 
+<table>
+<tr class="odd">
+    <td rowspan="2"><strong>Fundamentals of Biology</strong></td>
+    <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+    <td><a href="Eric_Lander" title="wikilink">Eric Lander</a></td>
+    <td>English</td>
+    <td>2011</td>
+    <td>39</td>
+    <td>12h</td>
+    <td>7.01SC</td>
+    <td><a href="https://www.youtube.com/playlist?list=PLF83B8D8C87426E44">Youtube list</a></td>
+    <td><a href="http://ocw.mit.edu/7-01SCF11">Web page</a></td>
+</tr>
+<tr class="odd">
+    <td colspan="9">Fundamentals of Biology focuses on the basic principles of biochemistry, molecular biology, genetics, and recombinant DNA. These principles are necessary to understanding the basic mechanisms of life and anchor the biological knowledge that is required to understand many of the challenges in everyday life, from human health and disease to loss of biodiversity and environmental quality.</td>
+</tr>
+</table>
 
 <table>
-<thead>
-<tr class="header">
-<th><p>Name</p></th>
-<th><p>Institution</p></th>
-<th><p>Lecturer</p></th>
-<th><p>Language</p></th>
-<th><p>Year</p></th>
-<th><p>Num. of<br />
-lectures</p></th>
-<th><p>Total<br />
-duration</p></th>
-<th><p>Code</p></th>
-<th><p>Course description</p></th>
-<th><p>URL 1</p></th>
-<th><p>URL 2</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><strong>Human Behavioral Biology</strong></p></td>
-<td><p><a href="Stanford_University" title="wikilink">Stanford
-University</a></p></td>
-<td><p><a href="Robert_Sapolsky" title="wikilink">Robert
-Sapolsky</a></p></td>
-<td><p>English</p></td>
-<td><p>2010.</p></td>
-<td><p>25</p></td>
-<td><p>37h</p></td>
-<td><p>BIO 150</p></td>
-<td><p>This course focuses on how to approach complex normal and
-abnormal behaviors through biology and how to integrate disciplines
-including sociobiology, ethology, neuroscience, and endocrinology to
-examine behaviors such as aggression, sexual behavior, language use, and
-mental illness.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL848F2368C90DDC3D">Youtube
-list</a></p></td>
-<td><p><a
-href="http://www.infocobuild.com/education/audio-video-courses/biology/bio-150-human-behavioral-biology-stanford.html">Web
-page</a></p></td>
+<tr class="even">
+    <td rowspan="2"><strong>Virology</strong></td>
+    <td><a href="Columbia_University" title="wikilink">Columbia University</a></td>
+    <td><a href="Vincent_Racaniello" title="wikilink">Vincent Racaniello</a></td>
+    <td>English</td>
+    <td>2021</td>
+    <td>25</td>
+    <td>29h</td>
+    <td>Biology 4310</td>
+    <td><a href="https://www.youtube.com/playlist?list=PLGhmZX2NKiNm0vqVhoYB_xZP6E6tGT6rU">Youtube list</a></td>
+    <td><a href="https://www.virology.ws/course/">Web page</a></td>
 </tr>
 <tr class="even">
-<td><p><strong>Introductory Biology</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Barbara_Imperiali" title="wikilink">Barbara
-Imperiali</a>, Adam Martin, <a href="Diviya_Ray" title="wikilink">Diviya
-Ray</a></p></td>
-<td><p>English</p></td>
-<td><p>2018.</p></td>
-<td><p>35</p></td>
-<td><p>28h</p></td>
-<td><p>7.016</p></td>
-<td><p>Introductory Biology provides an introduction to fundamental
-principles of biochemistry, molecular biology and genetics for
-understanding the functions of living systems. Taught for the first time
-in Fall 2013, this course covers examples of the use of chemical biology
-and twenty-first-century molecular genetics in understanding human
-health and therapeutic intervention.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63LmSVIVzy584-ZbjbJ-Y63">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/biology/7-016-introductory-biology-fall-2018/">Web
-page</a></p></td>
+    <td colspan="9">The course will emphasize the common reactions that must be completed by all viruses for successful reproduction within a host cell and survival and spread within a host population. The molecular basis of alternative reproductive cycles, the interactions of viruses with host organisms, and how these lead to disease are presented with examples drawn from a set of representative animal and human viruses, although selected bacterial viruses will be discussed.</td>
+</tr>
+</table>
+
+<table>
+<tr class="odd">
+    <td rowspan="2"><strong>Virology</strong></td>
+    <td><a href="Columbia_University" title="wikilink">Columbia University</a></td>
+    <td><a href="Vincent_Racaniello" title="wikilink">Vincent Racaniello</a></td>
+    <td>English</td>
+    <td>2011</td>
+    <td>26</td>
+    <td>30h</td>
+    <td>Biology W3310</td>
+    <td><a href="https://www.youtube.com/playlist?list=PLF03C29905EF9A6CA">Youtube list</a></td>
+    <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Fundamentals of Biology</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Eric_Lander" title="wikilink">Eric Lander</a></p></td>
-<td><p>English</p></td>
-<td><p>2011.</p></td>
-<td><p>39</p></td>
-<td><p>12h</p></td>
-<td><p>7.01SC</p></td>
-<td><p>Fundamentals of Biology focuses on the basic principles of
-biochemistry, molecular biology, genetics, and recombinant DNA. These
-principles are necessary to understanding the basic mechanisms of life
-and anchor the biological knowledge that is required to understand many
-of the challenges in everyday life, from human health and disease to
-loss of biodiversity and environmental quality.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLF83B8D8C87426E44">Youtube
-list</a></p></td>
-<td><p><a href="http://ocw.mit.edu/7-01SCF11">Web page</a></p></td>
+    <td colspan="9">The course will emphasize the common reactions that must be completed by all viruses for successful reproduction within a host cell and survival and spread within a host population. The molecular basis of alternative reproductive cycles, the interactions of viruses with host organisms, and how these lead to disease are presented with examples drawn from a set of representative animal and human viruses, although selected bacterial viruses will be discussed.</td>
 </tr>
-<tr class="even">
-<td><p><strong>Virology</strong></p></td>
-<td><p><a href="Columbia_University" title="wikilink">Columbia
-University</a></p></td>
-<td><p><a href="Vincent_Racaniello" title="wikilink">Vincent
-Racaniello</a></p></td>
-<td><p>English</p></td>
-<td><p>2021.</p></td>
-<td><p>25</p></td>
-<td><p>29h</p></td>
-<td><p>Biology 4310</p></td>
-<td><p>The course will emphasize the common reactions that must be
-completed by all viruses for successful reproduction within a host cell
-and survival and spread within a host population. The molecular basis of
-alternative reproductive cycles, the interactions of viruses with host
-organisms, and how these lead to disease are presented with examples
-drawn from a set of representative animal and human viruses, although
-selected bacterial viruses will be discussed.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLGhmZX2NKiNm0vqVhoYB_xZP6E6tGT6rU">Youtube
-list</a></p></td>
-<td><p><a href="https://www.virology.ws/course/">Web page</a></p></td>
+</table>
+
+<table>
+<tr class="odd">
+    <td rowspan="2"><strong>Principles of Evolution, Ecology and Behavior</strong></td>
+    <td><a href="Yale_University" title="wikilink">Yale University</a></td>
+    <td><a href="Stephen_C._Stearns" title="wikilink">Stephen C. Stearns</a></td>
+    <td>English</td>
+    <td>2009</td>
+    <td>36</td>
+    <td>27h</td>
+    <td>EEB 122</td>
+    <td><a href="http://www.youtube.com/playlist?list=PL6299F3195349CCDA">Youtube list</a></td>
+    <td><a href="http://oyc.yale.edu/ecology-and-evolutionary-biology/eeb-122">Web page</a></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+    <td colspan="9">This course presents the principles of evolution, ecology, and behavior for students beginning their study of biology and of the environment. It discusses major ideas and results in a manner accessible to all Yale College undergraduates. Recent advances have energized these fields with results that have implications well beyond their boundaries: ideas, mechanisms, and processes that should form part of the toolkit of all biologists and educated citizens.</td>
+</tr>
+</table>
+
+<table>
+<tr class="even">
+    <td rowspan="2"><strong>Frontiers of Biomedical Engineering</strong></td>
+    <td><a href="Yale_University" title="wikilink">Yale University</a></td>
+    <td><a href="W._Mark_Saltzman" title="wikilink">W. Mark Saltzman</a></td>
+    <td>English</td>
+    <td>2008</td>
+    <td>25</td>
+    <td>20h</td>
+    <td>BENG 100</td>
+    <td><a href="https://www.youtube.com/playlist?list=PL27E877E8206F196B">Youtube list</a></td>
+    <td><a href="http://oyc.yale.edu/biomedical-engineering/beng-100">Web page</a></td>
 </tr>
 <tr class="even">
-<td><p><strong>Virology</strong></p></td>
-<td><p><a href="Columbia_University" title="wikilink">Columbia
-University</a></p></td>
-<td><p><a href="Vincent_Racaniello" title="wikilink">Vincent
-Racaniello</a></p></td>
-<td><p>English</p></td>
-<td><p>2011.</p></td>
-<td><p>26</p></td>
-<td><p>30h</p></td>
-<td><p>Biology W3310</p></td>
-<td><p>The course will emphasize the common reactions that must be
-completed by all viruses for successful reproduction within a host cell
-and survival and spread within a host population. The molecular basis of
-alternative reproductive cycles, the interactions of viruses with host
-organisms, and how these lead to disease are presented with examples
-drawn from a set of representative animal and human viruses, although
-selected bacterial viruses will be discussed.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLF03C29905EF9A6CA">Youtube
-list</a></p></td>
-<td></td>
+    <td colspan="9">The course covers basic concepts of biomedical engineering and their connection with the spectrum of human activity. It serves as an introduction to the fundamental science and engineering on which biomedical engineering is based. Case studies of drugs and medical products illustrate the product development-product testing cycle, patent protection, and FDA approval. It is designed for science and non-science majors.</td>
 </tr>
-<tr class="odd">
-<td><p><strong>Principles of Evolution, Ecology and
-Behavior</strong></p></td>
-<td><p><a href="Yale_University" title="wikilink">Yale
-University</a></p></td>
-<td><p><a href="Stephen_C._Stearns" title="wikilink">Stephen C.
-Stearns</a></p></td>
-<td><p>English</p></td>
-<td><p>2009.</p></td>
-<td><p>36</p></td>
-<td><p>27h</p></td>
-<td><p>EEB 122</p></td>
-<td><p>This course presents the principles of evolution, ecology, and
-behavior for students beginning their study of biology and of the
-environment. It discusses major ideas and results in a manner accessible
-to all Yale College undergraduates. Recent advances have energized these
-fields with results that have implications well beyond their boundaries:
-ideas, mechanisms, and processes that should form part of the toolkit of
-all biologists and educated citizens.</p></td>
-<td><p><a
-href="http://www.youtube.com/playlist?list=PL6299F3195349CCDA">Youtube
-list</a></p></td>
-<td><p><a
-href="http://oyc.yale.edu/ecology-and-evolutionary-biology/eeb-122">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Frontiers of Biomedical Engineering</strong></p></td>
-<td><p><a href="Yale_University" title="wikilink">Yale
-University</a></p></td>
-<td><p><a href="W._Mark_Saltzman" title="wikilink">W. Mark
-Saltzman</a></p></td>
-<td><p>English</p></td>
-<td><p>2008.</p></td>
-<td><p>25</p></td>
-<td><p>20h</p></td>
-<td><p>BENG 100</p></td>
-<td><p>The course covers basic concepts of biomedical engineering and
-their connection with the spectrum of human activity. It serves as an
-introduction to the fundamental science and engineering on which
-biomedical engineering is based. Case studies of drugs and medical
-products illustrate the product development-product testing cycle,
-patent protection, and FDA approval. It is designed for science and
-non-science majors.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL27E877E8206F196B">Youtube
-list</a></p></td>
-<td><p><a href="http://oyc.yale.edu/biomedical-engineering/beng-100">Web
-page</a></p></td>
-</tr>
-</tbody>
 </table>
 
 ## Chemistry
