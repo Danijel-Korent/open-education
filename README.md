@@ -23,6 +23,64 @@ lectures</p></th>
 <th><p>Total<br />
 duration</p></th>
 <th><p>Code</p></th>
+<th><p>URL 1</p></th>
+<th><p>URL 2</p></th>
+</tr>
+</thead>
+<tbody>
+    <tr class="odd">
+        <td rowspan="2"><strong>Human Behavioral Biology</strong></td>
+        <td><a href="Stanford_University" title="wikilink">Stanford University</a></td>
+        <td><a href="Robert_Sapolsky" title="wikilink">Robert Sapolsky</a></td>
+        <td>English</td>
+        <td>2010</td>
+        <td>25</td>
+        <td>37h</td>
+        <td>BIO 150</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL848F2368C90DDC3D">Youtube list</a></td>
+        <td><a href="http://www.infocobuild.com/education/audio-video-courses/biology/bio-150-human-behavioral-biology-stanford.html">Web page</a></td>
+    </tr>
+    <!-- Second Row -->
+    <tr class="odd">
+        <td colspan="9">This course focuses on how to approach complex normal and abnormal behaviors through biology and how to integrate disciplines including sociobiology, ethology, neuroscience, and endocrinology to examine behaviors such as aggression, sexual behavior, language use, and mental illness.</td>
+    </tr>
+</tbody>
+</table>
+
+<table>
+    <!-- First Row -->
+    <tr class="even">
+        <td rowspan="2"><strong>Introductory Biology</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="Barbara_Imperiali" title="wikilink">Barbara Imperiali</a>, Adam Martin, <a href="Diviya_Ray" title="wikilink">Diviya Ray</a></td>
+        <td>English</td>
+        <td>2018</td>
+        <td>35</td>
+        <td>28h</td>
+        <td>7.016</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63LmSVIVzy584-ZbjbJ-Y63">Youtube list</a></td>
+        <td><a href="https://ocw.mit.edu/courses/biology/7-016-introductory-biology-fall-2018/">Web page</a></td>
+    </tr>
+    <!-- Second Row -->
+    <tr class="even">
+        <td colspan="9">Introductory Biology provides an introduction to fundamental principles of biochemistry, molecular biology and genetics for understanding the functions of living systems. Taught for the first time in Fall 2013, this course covers examples of the use of chemical biology and twenty-first-century molecular genetics in understanding human health and therapeutic intervention.</td>
+    </tr>
+</table>
+
+
+<table>
+<thead>
+<tr class="header">
+<th><p>Name</p></th>
+<th><p>Institution</p></th>
+<th><p>Lecturer</p></th>
+<th><p>Language</p></th>
+<th><p>Year</p></th>
+<th><p>Num. of<br />
+lectures</p></th>
+<th><p>Total<br />
+duration</p></th>
+<th><p>Code</p></th>
 <th><p>Course description</p></th>
 <th><p>URL 1</p></th>
 <th><p>URL 2</p></th>
