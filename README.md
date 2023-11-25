@@ -12,7 +12,6 @@ Listed are only courses that are:
 
 <table>
 <thead>
-<tr class="header">
 <th><p>Name</p></th>
 <th><p>Institution</p></th>
 <th><p>Lecturer</p></th>
@@ -25,7 +24,6 @@ duration</p></th>
 <th><p>Code</p></th>
 <th><p>URL 1</p></th>
 <th><p>URL 2</p></th>
-</tr>
 </thead>
 <tbody>
     <tr class="odd">
@@ -161,7 +159,6 @@ duration</p></th>
 
 <table>
 <thead>
-<tr class="header">
 <th><p>Name</p></th>
 <th><p>Institution</p></th>
 <th><p>Lecturer</p></th>
@@ -174,7 +171,6 @@ duration</p></th>
 <th><p>Code</p></th>
 <th><p>URL 1</p></th>
 <th><p>URL 2</p></th>
-</tr>
 </thead>
 <tr class="odd">
     <td rowspan="2"><strong>Principles of Chemical Science</strong></td>
