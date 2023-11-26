@@ -281,7 +281,6 @@ duration</p></th>
 
 ## Computer science
 <table>
-<table>
 <thead>
     <th><p>Name</p></th>
     <th><p>Institution</p></th>
