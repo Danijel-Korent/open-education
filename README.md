@@ -12,16 +12,16 @@ Listed are only courses that are:
 
 <table>
 <thead>
-<th><p>Name</p></th>
-<th><p>Institution</p></th>
-<th><p>Lecturer</p></th>
-<th><p>Language</p></th>
-<th><p>Year</p></th>
-<th><p>Num. of lectures</p></th>
-<th><p>Total duration</p></th>
-<th><p>Code</p></th>
-<th><p>URL 1</p></th>
-<th><p>URL 2</p></th>
+    <th>Name</th>
+    <th>Institution</th>
+    <th>Lecturer</th>
+    <th>Language</th>
+    <th>Year</th>
+    <th>Num. of lectures</th>
+    <th>Total duration</th>
+    <th>Code</th>
+    <th>URL 1</th>
+    <th>URL 2</th>
 </thead>
 <tbody>
     <tr class="odd">
