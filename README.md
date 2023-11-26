@@ -278,6 +278,7 @@ duration</p></th>
 </table>
 
 ## Computer science
+
 <table>
 <thead>
     <th><p>Name</p></th>
@@ -525,7 +526,6 @@ duration</p></th>
     <td colspan="9">This course provides a broad introduction to machine learning and statistical pattern recognition. Topics include: supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); unsupervised learning (clustering, dimensionality reduction, kernel methods); learning theory (bias/variance tradeoffs, practical advice); reinforcement learning and adaptive control. The course will also discuss recent applications of machine learning, such as to robotic control, data mining, autonomous navigation, bioinformatics, speech recognition, and text and web data processing.</td>
 </tr>
 
-<!-- Machine Learning, Stanford University, 2008 -->
 <table>
     <tr class="even">
         <td rowspan="2"><strong>Machine Learning</strong></td>
@@ -544,7 +544,6 @@ duration</p></th>
     </tr>
 </table>
 
-<!-- Introduction to Deep Learning, MIT, 2021 -->
 <table>
     <tr class="odd">
         <td rowspan="2"><strong>Introduction to Deep Learning</strong></td>
@@ -599,251 +598,180 @@ duration</p></th>
     </tr>
 </table>
 
-
 ## Economy
 
 <table>
-<thead>
-<tr class="header">
-<th><p>Name</p></th>
-<th><p>Institution</p></th>
-<th><p>Lecturer</p></th>
-<th><p>Language</p></th>
-<th><p>Year</p></th>
-<th><p>Num. of<br />
-lectures</p></th>
-<th><p>Total<br />
-duration</p></th>
-<th><p>Code</p></th>
-<th><p>Course description</p></th>
-<th><p>URL 1</p></th>
-<th><p>URL 2</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><strong>The Challenge of World Poverty</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Esther_Duflo" title="wikilink">Esther Duflo</a>, <a
-href="Abhijit_Banerjee" title="wikilink">Abhijit Banerjee</a></p></td>
-<td><p>English</p></td>
-<td><p>2011.</p></td>
-<td><p>22</p></td>
-<td><p>25h</p></td>
-<td><p>14.73</p></td>
-<td><p>This is a course for those who are interested in the challenge
-posed by massive and persistent world poverty, and are hopeful that
-economists might have something useful to say about this
-challenge.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLUl4u3cNGP620R91K4KP_fO4l3eeK5lDn">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/economics/14-73-the-challenge-of-world-poverty-spring-2011/">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Principles of Microeconomics</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Jonathan_Gruber_(economist)" title="wikilink">Jonathan
-Gruber</a></p></td>
-<td><p>English</p></td>
-<td><p>2018.</p></td>
-<td><p>26</p></td>
-<td><p>21h</p></td>
-<td><p>14.01</p></td>
-<td><p>This introductory undergraduate course covers the fundamentals of
-microeconomics. Topics include supply and demand, market equilibrium,
-consumer theory, production and the behavior of firms, monopoly,
-oligopoly, welfare economics, public goods, and externalities.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62oJSoqb4Rf-vZMGUBe59G-">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/economics/14-01-principles-of-microeconomics-fall-2018/">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Financial Theory</strong></p></td>
-<td><p><a href="Yale_University" title="wikilink">Yale
-University</a></p></td>
-<td><p><a href="John_Geanakoplos" title="wikilink">John
-Geanakoplos</a></p></td>
-<td><p>English</p></td>
-<td><p>2009.</p></td>
-<td><p>26</p></td>
-<td><p>26h</p></td>
-<td><p>ECON 251</p></td>
-<td><p>This course attempts to explain the role and the importance of
-the financial system in the global economy. Rather than separating off
-the financial world from the rest of the economy, financial equilibrium
-is studied as an extension of economic equilibrium. The course also
-gives a picture of the kind of thinking and analysis done by hedge
-funds.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLEDC55106E0BA18FC">Youtube
-list</a></p></td>
-<td><p><a href="https://oyc.yale.edu/economics/econ-251">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Finance Theory I</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Andrew_Lo" title="wikilink">Andrew Lo</a></p></td>
-<td><p>English</p></td>
-<td><p>2008.</p></td>
-<td><p>20</p></td>
-<td><p>25h</p></td>
-<td><p>15.401</p></td>
-<td><p>This course provides a rigorous introduction to the fundamentals
-of modern financial analysis and applications to business challenges in
-valuation, risk analysis, corporate investment decisions, and basic
-security analysis and investment management. The four major sections of
-the course are: (A) an introduction to the financial system, the
-financial challenges firms and households face, and the principles of
-modern finance in tackling these challenges; (B) valuation of stocks,
-bonds, forwards, futures, and options; (C) methods for incorporating
-risk analysis into valuation models, including portfolio theory,
-mean-variance optimization, and the Capital Asset Pricing Model; and (D)
-applications to corporate financial decisions, including capital
-budgeting and real options.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63B2lDhyKOsImI7FjCf6eDW">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/sloan-school-of-management/15-401-finance-theory-i-fall-2008/">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Financial Markets</strong></p></td>
-<td><p><a href="Yale_University" title="wikilink">Yale
-University</a></p></td>
-<td><p><a href="Robert_Shiller" title="wikilink">Robert
-Shiller</a></p></td>
-<td><p>English</p></td>
-<td><p>2011.</p></td>
-<td><p>23</p></td>
-<td><p>28h</p></td>
-<td><p>ECON 252</p></td>
-<td><p>An overview of the ideas, methods, and institutions that permit
-human society to manage risks and foster enterprise. Description of
-practices today and analysis of prospects for the future. Introduction
-to risk management and behavioral finance principles to understand the
-functioning of securities, insurance, and banking industries.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL8FB14A2200B87185">Youtube
-list</a></p></td>
-<td><p><a href="https://oyc.yale.edu/economics/econ-252">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Game Theory</strong></p></td>
-<td><p><a href="Yale_University" title="wikilink">Yale
-University</a></p></td>
-<td><p><a href="Ben_Polak" title="wikilink">Ben Polak</a></p></td>
-<td><p>English</p></td>
-<td><p>2007.</p></td>
-<td><p>24</p></td>
-<td><p>29h</p></td>
-<td><p>ECON 159</p></td>
-<td><p>This course is an introduction to game theory and strategic
-thinking. Ideas such as dominance, backward induction, Nash equilibrium,
-evolutionary stability, commitment, credibility, asymmetric information,
-adverse selection, and signaling are discussed and applied to games
-played in class and to examples drawn from economics, politics, the
-movies, and elsewhere.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B">Youtube
-list</a></p></td>
-<td><p><a href="https://oyc.yale.edu/economics/econ-159">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Public Economics and Finance</strong></p></td>
-<td><p><a href="New_York_University" title="wikilink">New York
-University</a></p></td>
-<td><p><a href="Nirupama_Rao" title="wikilink">Nirupama Rao</a></p></td>
-<td><p>English</p></td>
-<td></td>
-<td><p>13</p></td>
-<td><p>21h</p></td>
-<td></td>
-<td><p>Public finance (also known as public economics) analyzes the
-impact of public policy on the allocation of resources and the
-distribution of income in the economy. In this course, you will learn
-how to use the tools of microeconomics and empirical analysis to analyze
-the economic effects of public expenditures and taxation.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLPClF5HvrYnl5SiVFEdC07HvJY4ut_ZTc">Youtube
-list</a></p></td>
-<td><p><a
-href="https://www.openculture.com/public-economics-and-finance-a-free-online-course-from-nyu">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Special Topics in Supply Chain
-Management</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Brian_Subirana" title="wikilink">Brian Subirana</a>,
-John Williams, <a href="Sanjay_Sarma" title="wikilink">Sanjay
-Sarma</a></p></td>
-<td><p>English</p></td>
-<td><p>2005.</p></td>
-<td><p>16</p></td>
-<td><p>12h</p></td>
-<td><p>ESD.290</p></td>
-<td><p>This subject presents a range of advanced topics in integrated
-logistics and supply chain management. The course was conducted in a
-lecture-discussion format, with participation of corporate executives as
-guest lecturers. Students prepare industry assessment analyses and make
-formal classroom presentations. Specific topics alternate from year to
-year, but basic content includes procurement strategies and strategic
-sourcing, dynamic pricing and revenue management tactics, mitigation of
-supply chain risk through supply contracts, strategic outsourcing of
-supply chain functions and operations, management and operation of third
-party logistics providers, and management of supply chain
-security.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLF9071540F59BA1F0">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/engineering-systems-division/esd-290-special-topics-in-supply-chain-management-spring-2005/">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Introduction to Lean Six Sigma Methods</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Earll_Murman" title="wikilink">Earll Murman</a>, <a
-href="Annalisa_Weigel" title="wikilink">Annalisa Weigel</a>, <a
-href="Al_Haggerty" title="wikilink">Al Haggerty</a>, <a
-href="High_McManus" title="wikilink">High McManus</a></p></td>
-<td><p>English</p></td>
-<td><p>2008.</p></td>
-<td><p>14</p></td>
-<td><p>9h</p></td>
-<td><p>16.660</p></td>
-<td><p>This course introduces the fundamental Lean Six Sigma principles
-that underlay modern continuous improvement approaches for industry,
-government and other organizations. Lean emerged from the Japanese
-automotive industry, particularly Toyota, and is focused on the creation
-of value through the relentless elimination of waste. Six Sigma is a
-quality system developed at Motorola which focuses on elimination of
-variation from all processes. The basic principles have been applied to
-a wide range of organizations and sectors to improve quality,
-productivity, customer satisfaction, employee satisfaction,
-time-to-market and financial performance.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL8C6BE63DA137DD01">Youtube
-list</a></p></td>
-<td><p><a href="https://dspace.mit.edu/handle/1721.1/86011">Web
-page</a></p></td>
-</tr>
-</tbody>
+    <thead>
+        <th>Name</th>
+        <th>Institution</th>
+        <th>Lecturer</th>
+        <th>Language</th>
+        <th>Year</th>
+        <th>Num. of lectures</th>
+        <th>Total duration</th>
+        <th>Code</th>
+        <th>URL 1</th>
+        <th>URL 2</th>
+    </thead>
+    <tr class="odd">
+        <td rowspan="2"><strong>The Challenge of World Poverty</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="Esther_Duflo" title="wikilink">Esther Duflo</a>, <a href="Abhijit_Banerjee" title="wikilink">Abhijit Banerjee</a></td>
+        <td>English</td>
+        <td>2011</td>
+        <td>22</td>
+        <td>25h</td>
+        <td>14.73</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP620R91K4KP_fO4l3eeK5lDn">Youtube list</a></td>
+        <td><a href="https://ocw.mit.edu/courses/economics/14-73-the-challenge-of-world-poverty-spring-2011/">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">This is a course for those who are interested in the challenge posed by massive and persistent world poverty, and are hopeful that economists might have something useful to say about this challenge.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Principles of Microeconomics</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="Jonathan_Gruber_(economist)" title="wikilink">Jonathan Gruber</a></td>
+        <td>English</td>
+        <td>2018</td>
+        <td>26</td>
+        <td>21h</td>
+        <td>14.01</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62oJSoqb4Rf-vZMGUBe59G-">Youtube list</a></td>
+        <td><a href="https://ocw.mit.edu/courses/economics/14-01-principles-of-microeconomics-fall-2018/">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">This introductory undergraduate course covers the fundamentals of microeconomics. Topics include supply and demand, market equilibrium, consumer theory, production and the behavior of firms, monopoly, oligopoly, welfare economics, public goods, and externalities.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>Financial Theory</strong></td>
+        <td><a href="Yale_University" title="wikilink">Yale University</a></td>
+        <td><a href="John_Geanakoplos" title="wikilink">John Geanakoplos</a></td>
+        <td>English</td>
+        <td>2009</td>
+        <td>26</td>
+        <td>26h</td>
+        <td>ECON 251</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLEDC55106E0BA18FC">Youtube list</a></td>
+        <td><a href="https://oyc.yale.edu/economics/econ-251">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">This course attempts to explain the role and the importance of the financial system in the global economy. Rather than separating off the financial world from the rest of the economy, financial equilibrium is studied as an extension of economic equilibrium. The course also gives a picture of the kind of thinking and analysis done by hedge funds.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Finance Theory I</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="Andrew_Lo" title="wikilink">Andrew Lo</a></td>
+        <td>English</td>
+        <td>2008</td>
+        <td>20</td>
+        <td>25h</td>
+        <td>15.401</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63B2lDhyKOsImI7FjCf6eDW">Youtube list</a></td>
+        <td><a href="https://ocw.mit.edu/courses/sloan-school-of-management/15-401-finance-theory-i-fall-2008/">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">This course provides a rigorous introduction to the fundamentals of modern financial analysis and applications to business challenges in valuation, risk analysis, corporate investment decisions, and basic security analysis and investment management. The four major sections of the course are: (A) an introduction to the financial system, the financial challenges firms and households face, and the principles of modern finance in tackling these challenges; (B) valuation of stocks, bonds, forwards, futures, and options; (C) methods for incorporating risk analysis into valuation models, including portfolio theory, mean-variance optimization, and the Capital Asset Pricing Model; and (D) applications to corporate financial decisions, including capital budgeting and real options.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>Financial Markets</strong></td>
+        <td><a href="Yale_University" title="wikilink">Yale University</a></td>
+        <td><a href="Robert_Shiller" title="wikilink">Robert Shiller</a></td>
+        <td>English</td>
+        <td>2011</td>
+        <td>23</td>
+        <td>28h</td>
+        <td>ECON 252</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL8FB14A2200B87185">Youtube list</a></td>
+        <td><a href="https://oyc.yale.edu/economics/econ-252">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">An overview of the ideas, methods, and institutions that permit human society to manage risks and foster enterprise. Description of practices today and analysis of prospects for the future. Introduction to risk management and behavioral finance principles to understand the functioning of securities, insurance, and banking industries.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Game Theory</strong></td>
+        <td><a href="Yale_University" title="wikilink">Yale University</a></td>
+        <td><a href="Ben_Polak" title="wikilink">Ben Polak</a></td>
+        <td>English</td>
+        <td>2007</td>
+        <td>24</td>
+        <td>29h</td>
+        <td>ECON 159</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B">Youtube list</a></td>
+        <td><a href="https://oyc.yale.edu/economics/econ-159">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">This course is an introduction to game theory and strategic thinking. Ideas such as dominance, backward induction, Nash equilibrium, evolutionary stability, commitment, credibility, asymmetric information, adverse selection, and signaling are discussed and applied to games played in class and to examples drawn from economics, politics, the movies, and elsewhere.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>Public Economics and Finance</strong></td>
+        <td><a href="New_York_University" title="wikilink">New York University</a></td>
+        <td><a href="Nirupama_Rao" title="wikilink">Nirupama Rao</a></td>
+        <td>English</td>
+        <td>Not specified</td>
+        <td>13</td>
+        <td>21h</td>
+        <td>Not specified</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLPClF5HvrYnl5SiVFEdC07HvJY4ut_ZTc">Youtube list</a></td>
+        <td><a href="https://www.openculture.com/public-economics-and-finance-a-free-online-course-from-nyu">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">Public finance (also known as public economics) analyzes the impact of public policy on the allocation of resources and the distribution of income in the economy. In this course, you will learn how to use the tools of microeconomics and empirical analysis to analyze the economic effects of public expenditures and taxation.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Special Topics in Supply Chain Management</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="Brian_Subirana" title="wikilink">Brian Subirana</a>, John Williams, <a href="Sanjay_Sarma" title="wikilink">Sanjay Sarma</a></td>
+        <td>English</td>
+        <td>2005</td>
+        <td>16</td>
+        <td>12h</td>
+        <td>ESD.290</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLF9071540F59BA1F0">Youtube list</a></td>
+        <td><a href="https://ocw.mit.edu/courses/engineering-systems-division/esd-290-special-topics-in-supply-chain-management-spring-2005/">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">This subject presents a range of advanced topics in integrated logistics and supply chain management. The course was conducted in a lecture-discussion format, with participation of corporate executives as guest lecturers. Students prepare industry assessment analyses and make formal classroom presentations. Specific topics alternate from year to year, but basic content includes procurement strategies and strategic sourcing, dynamic pricing and revenue management tactics, mitigation of supply chain risk through supply contracts, strategic outsourcing of supply chain functions and operations, management and operation of third party logistics providers, and management of supply chain security.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>Introduction to Lean Six Sigma Methods</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="Earll_Murman" title="wikilink">Earll Murman</a>, <a href="Annalisa_Weigel" title="wikilink">Annalisa Weigel</a>, <a href="Al_Haggerty" title="wikilink">Al Haggerty</a>, <a href="High_McManus" title="wikilink">High McManus</a></td>
+        <td>English</td>
+        <td>2008</td>
+        <td>14</td>
+        <td>9h</td>
+        <td>16.660</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL8C6BE63DA137DD01">Youtube list</a></td>
+        <td><a href="https://dspace.mit.edu/handle/1721.1/86011">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">This course introduces the fundamental Lean Six Sigma principles that underlay modern continuous improvement approaches for industry, government and other organizations. Lean emerged from the Japanese automotive industry, particularly Toyota, and is focused on the creation of value through the relentless elimination of waste. Six Sigma is a quality system developed at Motorola which focuses on elimination of variation from all processes. The basic principles have been applied to a wide range of organizations and sectors to improve quality, productivity, customer satisfaction, employee satisfaction, time-to-market and financial performance.</td>
+    </tr>
 </table>
 
 ## Electrical engineering
