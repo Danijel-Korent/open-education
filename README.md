@@ -777,167 +777,123 @@ duration</p></th>
 ## Electrical engineering
 
 <table>
-<thead>
-<tr class="header">
-<th><p>Name</p></th>
-<th><p>Institution</p></th>
-<th><p>Lecturer</p></th>
-<th><p>Language</p></th>
-<th><p>Year</p></th>
-<th><p>Num. of<br />
-lectures</p></th>
-<th><p>Total<br />
-duration</p></th>
-<th><p>Code</p></th>
-<th><p>Course description</p></th>
-<th><p>URL 1</p></th>
-<th><p>URL 2</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><strong>Circuits and Electronics</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Anant_Agarwal" title="wikilink">Anant
-Agarwal</a></p></td>
-<td><p>English</p></td>
-<td><p>2007.</p></td>
-<td><p>26</p></td>
-<td><p>21h</p></td>
-<td><p>6.002</p></td>
-<td><p>6.002 is designed to serve as a first course in an undergraduate
-electrical engineering (EE), or electrical engineering and computer
-science (EECS) curriculum</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL9F74AFA03AA06A11">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Digital Circuit Design</strong></p></td>
-<td><p><a href="UNSW_Sydney" title="wikilink">UNSW Sydney</a></p></td>
-<td><p><a href="Nonie_Politi" title="wikilink">Nonie Politi</a></p></td>
-<td><p>English</p></td>
-<td><p>2011.</p></td>
-<td><p>32</p></td>
-<td><p>23h</p></td>
-<td><p>ELEC2141</p></td>
-<td><p>Introduction to modern digital logic design, combinational logic,
-switch logic and basic gates, Boolean algebra, two-level logic, regular
-logic structures, multi-level networks and transformations, programmable
-logic devices, time response. Sequential logic, networks with feedback,
-basic latches and flip-flops, timing methodologies, registers and
-counters, programmable logic devices. Finite state machine design,
-concepts of FSMs, basic design approach, specification methods, state
-minimization, state encoding, FSM partitioning, implementation of FSMs,
-programmable logic devices. Elements of computers, arithmetic circuits,
-arithmetic and logic units, register and bus structures, controllers/
-sequencers, microprogramming. Experience with computer-aided design
-tools for logic design, schematic entry, state diagram entry, hardware
-description language entry, compilation to logic networks, simulation,
-mapping to programmable logic devices. Practical topics, non-gate logic,
-asynchronous inputs and metastability, memories: RAM and ROM,
-Implementation technologies and mapping problems expressed in words to
-digital abstractions.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLB52B8F4E464CEEF7">Youtube
-list</a></p></td>
-<td><p><a
-href="https://www.handbook.unsw.edu.au/undergraduate/courses/2019/ELEC2141">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>AVR microcontroller lectures</strong></p></td>
-<td><p><a href="Cornell_University" title="wikilink">Cornell
-University</a></p></td>
-<td><p><a href="Bruce_Land" title="wikilink">Bruce Land</a></p></td>
-<td><p>English</p></td>
-<td><p>2012.</p></td>
-<td><p>34</p></td>
-<td><p>29h</p></td>
-<td><p>ECE 4760</p></td>
-<td><p>MIcrocontroller design course. ECE 4760 deals with
-microcontrollers as components in electronic design and embedded
-control.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLD7F7ED1F3505D8D5">Youtube
-list</a></p></td>
-<td><p><a href="http://people.ece.cornell.edu/land/courses/ece4760/">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Signals and Systems</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p>Dennis Freeman</p></td>
-<td><p>English</p></td>
-<td><p>2011.</p></td>
-<td><p>25</p></td>
-<td><p>20h</p></td>
-<td><p>6.003</p></td>
-<td><p>The analysis of signals and systems forms a key part of many
-modern technologies, including communications and feedback &amp;
-control. These lectures give a conceptual and mathematical introduction
-to the topic, covering both analog and digital systems.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLUl4u3cNGP61kdPAOC7CzFjJZ8f1eMUxs">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Electronic Feedback Systems</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="James_Roberge" title="wikilink">James
-Roberge</a></p></td>
-<td><p>English</p></td>
-<td><p>1985.</p></td>
-<td><p>20</p></td>
-<td><p>17h</p></td>
-<td></td>
-<td><p>Feedback control is an important technique that is used in many
-modern electronic and electromechanical systems. The successful
-inclusion of this technique improves performance, reliability, and cost
-effectiveness of many designs. In this series of lectures we introduce
-the analytical concepts that underlie classical feedback system design.
-The application of these concepts is illustrated by a variety of
-experiments and demonstration systems. The diversity of the
-demonstration systems reinforces the value of the analytic
-methods.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62in17jH_DiJMkCGNM6Xni-">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/resources/res-6-010-electronic-feedback-systems-spring-2013/">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Biomedical Electronics</strong></p></td>
-<td><p><a href="Cornell_University" title="wikilink">Cornell
-University</a></p></td>
-<td><p><a href="Bruce_Land" title="wikilink">Bruce Land</a></p></td>
-<td><p>English</p></td>
-<td><p>2013.</p></td>
-<td><p>21</p></td>
-<td><p>24h</p></td>
-<td><p>ECE5030</p></td>
-<td><p>Covers the theory and practical aspects of recording and
-analyzing electronic data collected from biological systems. Topics may
-include electrode and amplifier design, tissue impedance and effects on
-waveforms, sensors, statistical and signal processing algorithms, noise
-reduction, and safety considerations.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLKcjQ_UFkrd7zbPHRkDpB7i113wDG_Rb3">Youtube
-list</a></p></td>
-<td><p><a href="http://people.ece.cornell.edu/land/courses/ece5030/">Web
-page</a></p></td>
-</tr>
-</tbody>
+    <thead>
+        <th>Name</th>
+        <th>Institution</th>
+        <th>Lecturer</th>
+        <th>Language</th>
+        <th>Year</th>
+        <th>Num. of lectures</th>
+        <th>Total duration</th>
+        <th>Code</th>
+        <th>URL 1</th>
+        <th>URL 2</th>
+    </thead>
+    <tr class="odd">
+        <td rowspan="2"><strong>Circuits and Electronics</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="Anant_Agarwal" title="wikilink">Anant Agarwal</a></td>
+        <td>English</td>
+        <td>2007</td>
+        <td>26</td>
+        <td>21h</td>
+        <td>6.002</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL9F74AFA03AA06A11">Youtube list</a></td>
+        <td><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">6.002 is designed to serve as a first course in an undergraduate electrical engineering (EE), or electrical engineering and computer science (EECS) curriculum.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Digital Circuit Design</strong></td>
+        <td><a href="UNSW_Sydney" title="wikilink">UNSW Sydney</a></td>
+        <td><a href="Nonie_Politi" title="wikilink">Nonie Politi</a></td>
+        <td>English</td>
+        <td>2011</td>
+        <td>32</td>
+        <td>23h</td>
+        <td>ELEC2141</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLB52B8F4E464CEEF7">Youtube list</a></td>
+        <td><a href="https://www.handbook.unsw.edu.au/undergraduate/courses/2019/ELEC2141">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">Introduction to modern digital logic design, combinational logic, switch logic and basic gates, Boolean algebra, two-level logic, regular logic structures, multi-level networks and transformations, programmable logic devices, time response. Sequential logic, networks with feedback, basic latches and flip-flops, timing methodologies, registers and counters, programmable logic devices. Finite state machine design, concepts of FSMs, basic design approach, specification methods, state minimization, state encoding, FSM partitioning, implementation of FSMs, programmable logic devices. Elements of computers, arithmetic circuits, arithmetic and logic units, register and bus structures, controllers/ sequencers, microprogramming. Experience with computer-aided design tools for logic design, schematic entry, state diagram entry, hardware description language entry, compilation to logic networks, simulation, mapping to programmable logic devices. Practical topics, non-gate logic, asynchronous inputs and metastability, memories: RAM and ROM, Implementation technologies and mapping problems expressed in words to digital abstractions.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>AVR Microcontroller Lectures</strong></td>
+        <td><a href="Cornell_University" title="wikilink">Cornell University</a></td>
+        <td><a href="Bruce_Land" title="wikilink">Bruce Land</a></td>
+        <td>English</td>
+        <td>2012</td>
+        <td>34</td>
+        <td>29h</td>
+        <td>ECE 4760</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLD7F7ED1F3505D8D5">Youtube list</a></td>
+        <td><a href="http://people.ece.cornell.edu/land/courses/ece4760/">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">Microcontroller design course. ECE 4760 deals with microcontrollers as components in electronic design and embedded control.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Signals and Systems</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td>Dennis Freeman</td>
+        <td>English</td>
+        <td>2011</td>
+        <td>25</td>
+        <td>20h</td>
+        <td>6.003</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP61kdPAOC7CzFjJZ8f1eMUxs">Youtube list</a></td>
+        <td><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">The analysis of signals and systems forms a key part of many modern technologies, including communications and feedback & control. These lectures give a conceptual and mathematical introduction to the topic, covering both analog and digital systems.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>Electronic Feedback Systems</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="James_Roberge" title="wikilink">James Roberge</a></td>
+        <td>English</td>
+        <td>1985</td>
+        <td>20</td>
+        <td>17h</td>
+        <td></td>
+        <td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62in17jH_DiJMkCGNM6Xni-">Youtube list</a></td>
+        <td><a href="https://ocw.mit.edu/resources/res-6-010-electronic-feedback-systems-spring-2013/">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">Feedback control is an important technique that is used in many modern electronic and electromechanical systems. The successful inclusion of this technique improves performance, reliability, and cost effectiveness of many designs. In this series of lectures we introduce the analytical concepts that underlie classical feedback system design. The application of these concepts is illustrated by a variety of experiments and demonstration systems. The diversity of the demonstration systems reinforces the value of the analytic methods.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Biomedical Electronics</strong></td>
+        <td><a href="Cornell_University" title="wikilink">Cornell University</a></td>
+        <td><a href="Bruce_Land" title="wikilink">Bruce Land</a></td>
+        <td>English</td>
+        <td>2013</td>
+        <td>21</td>
+        <td>24h</td>
+        <td>ECE5030</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLKcjQ_UFkrd7zbPHRkDpB7i113wDG_Rb3">Youtube list</a></td>
+        <td><a href="http://people.ece.cornell.edu/land/courses/ece5030/">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">Covers the theory and practical aspects of recording and analyzing electronic data collected from biological systems. Topics may include electrode and amplifier design, tissue impedance and effects on waveforms, sensors, statistical and signal processing algorithms, noise reduction, and safety considerations.</td>
+    </tr>
 </table>
 
 ## History
