@@ -17,10 +17,8 @@ Listed are only courses that are:
 <th><p>Lecturer</p></th>
 <th><p>Language</p></th>
 <th><p>Year</p></th>
-<th><p>Num. of<br />
-lectures</p></th>
-<th><p>Total<br />
-duration</p></th>
+<th><p>Num. of lectures</p></th>
+<th><p>Total duration</p></th>
 <th><p>Code</p></th>
 <th><p>URL 1</p></th>
 <th><p>URL 2</p></th>
