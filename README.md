@@ -280,439 +280,328 @@ duration</p></th>
 </table>
 
 ## Computer science
-
+<table>
 <table>
 <thead>
-<tr class="header">
-<th><p>Name</p></th>
-<th><p>Institution</p></th>
-<th><p>Lecturer</p></th>
-<th><p>Language</p></th>
-<th><p>Year</p></th>
-<th><p>Num. of<br />
-lectures</p></th>
-<th><p>Total<br />
-duration</p></th>
-<th><p>Code</p></th>
-<th><p>Course description</p></th>
-<th><p>URL 1</p></th>
-<th><p>URL 2</p></th>
-</tr>
+    <th><p>Name</p></th>
+    <th><p>Institution</p></th>
+    <th><p>Lecturer</p></th>
+    <th><p>Language</p></th>
+    <th><p>Year</p></th>
+    <th><p>Num. of<br />
+    lectures</p></th>
+    <th><p>Total<br />
+    duration</p></th>
+    <th><p>Code</p></th>
+    <th><p>URL 1</p></th>
+    <th><p>URL 2</p></th>
 </thead>
-<tbody>
 <tr class="odd">
-<td><p><strong>Introduction to Computer Science I</strong></p></td>
-<td><p><a href="Harvard_University" title="wikilink">Harvard
-University</a></p></td>
-<td><p><a href="David_J._Malan" title="wikilink">David J.
-Malan</a></p></td>
-<td><p>English</p></td>
-<td><p>2020.</p></td>
-<td><p>13</p></td>
-<td><p>27h</p></td>
-<td><p><a href="CS50" title="wikilink">CS50</a></p></td>
-<td><p>CS50 is Harvard University's introduction to the intellectual
-enterprises of computer science and the art of programming.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8">Youtube
-list</a></p></td>
-<td><p><a href="https://cs50.harvard.edu/">Web page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Programming for Designers</strong></p></td>
-<td><p><a href="UNSW_Sydney" title="wikilink">UNSW Sydney</a></p></td>
-<td><p><a href="Malcom_Ryan" title="wikilink">Malcom Ryan</a>, <a
-href="Claude_Sammut" title="wikilink">Claude Sammut</a></p></td>
-<td><p>English</p></td>
-<td><p>2011.</p></td>
-<td><p>18</p></td>
-<td><p>15h</p></td>
-<td><p>COMP1400-T2</p></td>
-<td><p>An introduction to the concepts and techniques of object oriented
-programming with a focus on the construction of interactive multimedia
-applications. Delivery is through lectures and computer lab classes.
-Assessment will be via a number of in-class exercises and staged
-assignments.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL33A90F8537C8B1FB">Youtube
-list</a></p></td>
-<td><p><a
-href="https://thebox.unsw.edu.au/4D508202-840C-11DF-8BFC0050568336DC/LAYOUT/grid/mediaType/unswVideo">Web
-page</a></p></td>
+    <td rowspan="2"><strong>Introduction to Computer Science I</strong></td>
+    <td><a href="Harvard_University" title="wikilink">Harvard University</a></td>
+    <td><a href="David_J._Malan" title="wikilink">David J. Malan</a></td>
+    <td>English</td>
+    <td>2020</td>
+    <td>13</td>
+    <td>27h</td>
+    <td><a href="CS50" title="wikilink">CS50</a></td>
+    <td><a href="https://www.youtube.com/playlist?list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8">Youtube list</a></td>
+    <td><a href="https://cs50.harvard.edu/">Web page</a></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Introduction to Algorithms</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Erik_Demaine" title="wikilink">Erik Demaine</a>, <a
-href="Srini_Devadas" title="wikilink">Srini Devadas</a></p></td>
-<td><p>English</p></td>
-<td><p>2011.</p></td>
-<td><p>47</p></td>
-<td><p>42h</p></td>
-<td><p>6.006</p></td>
-<td><p>This course provides an introduction to mathematical modeling of
-computational problems. It covers the common algorithms, algorithmic
-paradigms, and data structures used to solve these problems. The course
-emphasizes the relationship between algorithms and programming, and
-introduces basic performance measures and analysis techniques for these
-problems.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/">Web
-page</a></p></td>
+    <td colspan="9">CS50 is Harvard University's introduction to the intellectual enterprises of computer science and the art of programming.</td>
 </tr>
-<tr class="even">
-<td><p><strong>Digital Design and Computer
-Architecture</strong></p></td>
-<td><p><a href="ETH_Zürich" title="wikilink">ETH Zürich</a></p></td>
-<td><p><a href="Onur_Mutlu" title="wikilink">Onur Mutlu</a></p></td>
-<td><p>English</p></td>
-<td><p>2020.</p></td>
-<td><p>38</p></td>
-<td><p>44h</p></td>
-<td></td>
-<td><p>The class provides a first introduction to the design of digital
-circuits and computer architecture. It covers technical foundations of
-how a computing platform is designed from the bottom up. It introduces
-various execution paradigms, hardware description languages, and
-principles in digital design and computer architecture. The focus is on
-fundamental techniques employed in the design of modern microprocessors
-and their hardware/software interface.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL5PHm2jkkXmhs4EACiFKvTPAQkdYMZKGu">Youtube
-list</a></p></td>
-<td><p><a
-href="https://safari.ethz.ch/digitaltechnik/spring2020/doku.php?id=schedule">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Performance Engineering of Software
-Systems</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Charles_Leiserson" title="wikilink">Charles
-Leiserson</a>, <a href="Julian_Shun" title="wikilink">Julian
-Shun</a></p></td>
-<td><p>English</p></td>
-<td><p>2018.</p></td>
-<td><p>23</p></td>
-<td><p>30h</p></td>
-<td><p>6.172</p></td>
-<td><p>6.172 provides a hands-on, project-based introduction to building
-scalable and high-performance software systems. Topics include
-performance analysis, algorithmic techniques for high performance,
-instruction-level optimizations, caching optimizations, parallel
-programming, and building scalable systems. The course programming
-language is C.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Performance Engineering of Software
-Systems</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Saman_Amarasinghe" title="wikilink">Saman
-Amarasinghe</a>, <a href="Charles_Leiserson" title="wikilink">Charles
-Leiserson</a></p></td>
-<td><p>English</p></td>
-<td><p>2010.</p></td>
-<td><p>24</p></td>
-<td><p>29h</p></td>
-<td><p>6.172</p></td>
-<td><p>This class is a hands-on, project-based introduction to building
-scalable and high-performance software systems. Topics include
-performance analysis, algorithmic techniques for high performance,
-instruction-level optimizations, cache and memory hierarchy
-optimization, parallel programming, and building scalable distributed
-systems.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLD2AE32F507F10481">Youtube
-list</a></p></td>
-<td><p><a href="https://dspace.mit.edu/handle/1721.1/122680">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Programming Methodology</strong></p></td>
-<td><p><a href="Stanford_University" title="wikilink">Stanford
-University</a></p></td>
-<td><p><a href="Mehran_Sahami" title="wikilink">Mehran
-Sahami</a></p></td>
-<td><p>English</p></td>
-<td><p>2007.</p></td>
-<td><p>28</p></td>
-<td><p>22h</p></td>
-<td><p>CS106A</p></td>
-<td><p>An introduction to the engineering of computer applications
-emphasizing modern software engineering principles: object-oriented
-design, decomposition, encapsulation, abstraction, and testing. Uses the
-Java programming language. Emphasis is on good programming style and the
-built-in facilities of the Java language. . The course is explicitly
-designed to appeal to humanists and social scientists as well as
-hard-core techies. In fact, most Programming Methodology graduates end
-up majoring outside of the School of Engineering.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL84A56BC7F4A1F852">Youtube
-list</a></p></td>
-<td><p><a href="https://see.stanford.edu/course/cs106a">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Programming Abstractions</strong></p></td>
-<td><p><a href="Stanford_University" title="wikilink">Stanford
-University</a></p></td>
-<td><p><a href="Julie_Zelenski" title="wikilink">Julie
-Zelenski</a></p></td>
-<td><p>English</p></td>
-<td><p>2008.</p></td>
-<td><p>27</p></td>
-<td><p>21h</p></td>
-<td><p>CS106B</p></td>
-<td><p>This course (CS 106B) is the successor to CS 106A and covers more
-advanced programming topics such as recursion, algorithmic analysis, and
-data abstraction. It is taught using the C++ programming language, which
-is similar to both C and Java. In the past when both CS 106A and CS106B
-were taught in C/C++, the coupling between the two classes was very
-tight and it was unheard for students to take CS106B without having
-completed our CS 106A (we recommended CS 106X instead). Nowadays, some
-students do go straight into CS106B, this is typically appropriate for a
-student who done well in an intro programming course and has sufficient
-familiarity with good programming style and software engineering issues
-(at the level of CS 106A) to use this understanding as a foundation on
-which to tackle advanced topics. Topics: Abstraction and its relation to
-programming. Software engineering principles of data abstraction and
-modularity. Object-oriented programming, fundamental data structures
-(such as stacks, queues, sets) and data-directed design. Recursion and
-recursive data structures (linked lists, trees, graphs). Introduction to
-time and space complexity analysis.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLFE6E58F856038C69">Youtube
-list</a></p></td>
-<td><p><a href="https://see.stanford.edu/Course/CS106B">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Programming Paradigms</strong></p></td>
-<td><p><a href="Stanford_University" title="wikilink">Stanford
-University</a></p></td>
-<td><p><a href="Jerry_Cain" title="wikilink">Jerry Cain</a></p></td>
-<td><p>English</p></td>
-<td><p>2008.</p></td>
-<td><p>27</p></td>
-<td><p>22h</p></td>
-<td><p>CS107</p></td>
-<td><p>Programming Paradigms (CS107) introduces several programming
-languages, including C, Assembly, C++, Concurrent Programming, Scheme,
-and Python. The class aims to teach students how to write code for each
-of these individual languages and to understand the programming
-paradigms behind these languages. Advanced memory management features of
-C and C++; the differences between imperative and object-oriented
-paradigms. The functional paradigm (using LISP) and concurrent
-programming (using C and C++). Brief survey of other modern languages
-such as Python, Objective C, and C#. Prerequisites: You should be
-comfortable with arrays, pointers, references, classes, methods, dynamic
-memory allocation, recursion, linked lists, binary search trees,
-hashing, iterators, and function pointers. You should be able to write
-well-decomposed, easy-to-understand code, and understand the value that
-comes with good variable names, short function and method
-implementations, and thoughtful, articulate comments.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL9D558D49CA734A02">Youtube
-list</a></p></td>
-<td><p><a href="https://see.stanford.edu/course/cs107">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Introduction to operating systems</strong></p></td>
-<td><p><a href="University_at_Buffalo" title="wikilink">University at
-Buffalo</a></p></td>
-<td><p><a href="Geoffrey_Challen" title="wikilink">Geoffrey
-Challen</a></p></td>
-<td><p>English</p></td>
-<td><p>2017.</p></td>
-<td><p>37</p></td>
-<td><p>28h</p></td>
-<td><p>CSE 421/521</p></td>
-<td><p>This course is an introduction to operating system design and
-implementation. We study operating systems because they are examples of
-mature and elegant solutions to a difficult design problem: how to
-safely and efficiently share system resources and provide abstractions
-useful to applications.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLE6LEE8y2Jp_z8pkiuvHo7Vz-eQEKsk-I">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ops-class.org/courses/buffalo/CSE421_Spring2017/">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Parallel Computer Architecture</strong></p></td>
-<td><p><a href="Carnegie_Mellon_University" title="wikilink">Carnegie
-Mellon University</a></p></td>
-<td><p><a href="Onur_Mutlu" title="wikilink">Onur Mutlu</a></p></td>
-<td><p>English</p></td>
-<td><p>2012.</p></td>
-<td><p>24</p></td>
-<td><p>35h</p></td>
-<td><p>18-742</p></td>
-<td></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL5PHm2jkkXmh4cDkC3s1VBB7-njlgiG5d">Youtube
-list</a></p></td>
-<td><p><a href="https://course.ece.cmu.edu/~ece742/f12/doku.php">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Introduction to Machine Learning</strong></p></td>
-<td><p><a href="University_of_Toronto" title="wikilink">University of
-Toronto</a></p></td>
-<td><p><a href="Amir_H._Ashouri" title="wikilink">Amir H.
-Ashouri</a></p></td>
-<td><p>English</p></td>
-<td><p>2019.</p></td>
-<td><p>38</p></td>
-<td><p>28h</p></td>
-<td><p>ECE421/ECE1513</p></td>
-<td><p>An Introduction to the basic theory, the fundamental algorithms,
-and the computational toolboxes of machine learning.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL-Mfq5QS-s8iS9XqKuApPE1TSlnZblFHF">Youtube
-list</a></p></td>
-<td><p><a
-href="https://engineering.calendar.utoronto.ca/course/ece421h1">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Machine Learning</strong></p></td>
-<td><p><a href="Stanford_University" title="wikilink">Stanford
-University</a></p></td>
-<td><p><a href="Andrew_Ng" title="wikilink">Andrew Ng</a></p></td>
-<td><p>English</p></td>
-<td><p>2018.</p></td>
-<td><p>20</p></td>
-<td><p>27h</p></td>
-<td><p>CS229</p></td>
-<td><p>This course provides a broad introduction to machine learning and
-statistical pattern recognition. Topics include: supervised learning
-(generative/discriminative learning, parametric/non-parametric learning,
-neural networks, support vector machines); unsupervised learning
-(clustering, dimensionality reduction, kernel methods); learning theory
-(bias/variance tradeoffs, practical advice); reinforcement learning and
-adaptive control. The course will also discuss recent applications of
-machine learning, such as to robotic control, data mining, autonomous
-navigation, bioinformatics, speech recognition, and text and web data
-processing.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU">Youtube
-list</a></p></td>
-<td><p><a href="https://cs229.stanford.edu/syllabus-autumn2018.html">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Machine Learning</strong></p></td>
-<td><p><a href="Stanford_University" title="wikilink">Stanford
-University</a></p></td>
-<td><p><a href="Andrew_Ng" title="wikilink">Andrew Ng</a></p></td>
-<td><p>English</p></td>
-<td><p>2008.?</p></td>
-<td><p>20</p></td>
-<td><p>25h</p></td>
-<td><p>CS229</p></td>
-<td><p>This course provides a broad introduction to machine learning and
-statistical pattern recognition. Topics include: supervised learning
-(generative/discriminative learning, parametric/non-parametric learning,
-neural networks, support vector machines); unsupervised learning
-(clustering, dimensionality reduction, kernel methods); learning theory
-(bias/variance tradeoffs; VC theory; large margins); reinforcement
-learning and adaptive control. The course will also discuss recent
-applications of machine learning, such as to robotic control, data
-mining, autonomous navigation, bioinformatics, speech recognition, and
-text and web data processing.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599">Youtube
-list</a></p></td>
-<td><p><a href="https://see.stanford.edu/Course/CS229">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Introduction to Deep Learning</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Alexander_Amini" title="wikilink">Alexander
-Amini</a></p></td>
-<td><p>English</p></td>
-<td><p>2021.</p></td>
-<td><p>43</p></td>
-<td><p>29h</p></td>
-<td><p>6.S191</p></td>
-<td><p>MIT's introductory course on deep learning methods with
-applications to computer vision, natural language processing, biology,
-and more! Students will gain foundational knowledge of deep learning
-algorithms and get practical experience in building neural networks in
-TensorFlow. Course concludes with a project proposal competition with
-feedback from staff and panel of industry sponsors. Prerequisites assume
-calculus (i.e. taking derivatives) and linear algebra (i.e. matrix
-multiplication), we'll try to explain everything else along the way!
-Experience in Python is helpful but not necessary. This class is taught
-during MIT's IAP term by current MIT PhD researchers.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI">Youtube
-list</a></p></td>
-<td><p><a href="http://introtodeeplearning.com/">Web page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Intro to Game Programming (C++)</strong></p></td>
-<td><p><a href="Memorial_University_of_Newfoundland"
-title="wikilink">Memorial University of Newfoundland</a></p></td>
-<td><p><a href="David_Churchill" title="wikilink">David
-Churchill</a></p></td>
-<td><p>English</p></td>
-<td><p>2022.</p></td>
-<td><p>22</p></td>
-<td><p>29h</p></td>
-<td><p>COMP 4300</p></td>
-<td><p>This is an introductory course for students interested in
-learning the fundamentals of game programming. Topics include vector
-math for games, fundamentals of rendering, introduction to animation and
-artificial intelligence, collision detection, game physics and
-user-interfaces.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL_xRyXins848nDj2v-TJYahzvs-XW9sVV">Youtube
-list</a></p></td>
-<td><p><a href="http://www.cs.mun.ca/~dchurchill/teaching.shtml">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>AI for Video Games</strong></p></td>
-<td><p><a href="Memorial_University_of_Newfoundland"
-title="wikilink">Memorial University of Newfoundland</a></p></td>
-<td><p><a href="David_Churchill" title="wikilink">David
-Churchill</a></p></td>
-<td><p>English</p></td>
-<td><p>2022.</p></td>
-<td><p>22</p></td>
-<td><p>20h</p></td>
-<td><p>COMP 4303</p></td>
-<td><p>This course provides an introduction to specific state-of-the-art
-algorithmic techniques and data structures that are used to efficiently
-implement humanlike abilities (e.g., awareness, memory, rational
-decision-making (under uncertainty), movement, co-operation in groups)
-in computer game agents.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL_xRyXins84_gIuIZmdOUOoYQR95I9k95">Youtube
-list</a></p></td>
-<td><p><a href="http://www.cs.mun.ca/~dchurchill/teaching.shtml">Web
-page</a></p></td>
-</tr>
-</tbody>
 </table>
+
+<table>
+<tr class="even">
+    <td rowspan="2"><strong>Programming for Designers</strong></td>
+    <td><a href="UNSW_Sydney" title="wikilink">UNSW Sydney</a></td>
+    <td><a href="Malcom_Ryan" title="wikilink">Malcom Ryan</a>, <a href="Claude_Sammut" title="wikilink">Claude Sammut</a></td>
+    <td>English</td>
+    <td>2011</td>
+    <td>18</td>
+    <td>15h</td>
+    <td>COMP1400-T2</td>
+    <td><a href="https://www.youtube.com/playlist?list=PL33A90F8537C8B1FB">Youtube list</a></td>
+    <td><a href="https://thebox.unsw.edu.au/4D508202-840C-11DF-8BFC0050568336DC/LAYOUT/grid/mediaType/unswVideo">Web page</a></td>
+</tr>
+<tr class="even">
+    <td colspan="9">An introduction to the concepts and techniques of object oriented programming with a focus on the construction of interactive multimedia applications. Delivery is through lectures and computer lab classes. Assessment will be via a number of in-class exercises and staged assignments.</td>
+</tr>
+</table>
+
+<table>
+<tr class="odd">
+    <td rowspan="2"><strong>Introduction to Algorithms</strong></td>
+    <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+    <td><a href="Erik_Demaine" title="wikilink">Erik Demaine</a>, <a href="Srini_Devadas" title="wikilink">Srini Devadas</a></td>
+    <td>English</td>
+    <td>2011</td>
+    <td>47</td>
+    <td>42h</td>
+    <td>6.006</td>
+    <td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb">Youtube list</a></td>
+    <td><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/">Web page</a></td>
+</tr>
+<tr class="odd">
+    <td colspan="9">This course provides an introduction to mathematical modeling of computational problems. It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems. The course emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems.</td>
+</tr>
+
+
+<table>
+<tr class="even">
+    <td rowspan="2"><strong>Digital Design and Computer Architecture</strong></td>
+    <td><a href="ETH_Zürich" title="wikilink">ETH Zürich</a></td>
+    <td><a href="Onur_Mutlu" title="wikilink">Onur Mutlu</a></td>
+    <td>English</td>
+    <td>2020</td>
+    <td>38</td>
+    <td>44h</td>
+    <td></td>
+    <td><a href="https://www.youtube.com/playlist?list=PL5PHm2jkkXmhs4EACiFKvTPAQkdYMZKGu">Youtube list</a></td>
+    <td><a href="https://safari.ethz.ch/digitaltechnik/spring2020/doku.php?id=schedule">Web page</a></td>
+</tr>
+<tr class="even">
+    <td colspan="9">The class provides a first introduction to the design of digital circuits and computer architecture. It covers technical foundations of how a computing platform is designed from the bottom up. It introduces various execution paradigms, hardware description languages, and principles in digital design and computer architecture. The focus is on fundamental techniques employed in the design of modern microprocessors and their hardware/software interface.</td>
+</tr>
+</table>
+
+<table>
+<tr class="odd">
+    <td rowspan="2"><strong>Performance Engineering of Software Systems</strong></td>
+    <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+    <td><a href="Charles_Leiserson" title="wikilink">Charles Leiserson</a>, <a href="Julian_Shun" title="wikilink">Julian Shun</a></td>
+    <td>English</td>
+    <td>2018</td>
+    <td>23</td>
+    <td>30h</td>
+    <td>6.172</td>
+    <td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf">Youtube list</a></td>
+    <td><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/">Web page</a></td>
+</tr>
+<tr class="odd">
+    <td colspan="9">6.172 provides a hands-on, project-based introduction to building scalable and high-performance software systems. Topics include performance analysis, algorithmic techniques for high performance, instruction-level optimizations, caching optimizations, parallel programming, and building scalable systems. The course programming language is C.</td>
+</tr>
+</table>
+
+<table>
+<tr class="even">
+    <td rowspan="2"><strong>Performance Engineering of Software Systems</strong></td>
+    <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+    <td><a href="Saman_Amarasinghe" title="wikilink">Saman Amarasinghe</a>, <a href="Charles_Leiserson" title="wikilink">Charles Leiserson</a></td>
+    <td>English</td>
+    <td>2010</td>
+    <td>24</td>
+    <td>29h</td>
+    <td>6.172</td>
+    <td><a href="https://www.youtube.com/playlist?list=PLD2AE32F507F10481">Youtube list</a></td>
+    <td><a href="https://dspace.mit.edu/handle/1721.1/122680">Web page</a></td>
+</tr>
+<tr class="even">
+    <td colspan="9">This class is a hands-on, project-based introduction to building scalable and high-performance software systems. Topics include performance analysis, algorithmic techniques for high performance, instruction-level optimizations, cache and memory hierarchy optimization, parallel programming, and building scalable distributed systems.</td>
+</tr>
+</table>
+
+<table>
+<tr class="odd">
+    <td rowspan="2"><strong>Programming Methodology</strong></td>
+    <td><a href="Stanford_University" title="wikilink">Stanford University</a></td>
+    <td><a href="Mehran_Sahami" title="wikilink">Mehran Sahami</a></td>
+    <td>English</td>
+    <td>2007</td>
+    <td>28</td>
+    <td>22h</td>
+    <td>CS106A</td>
+    <td><a href="https://www.youtube.com/playlist?list=PL84A56BC7F4A1F852">Youtube list</a></td>
+    <td><a href="https://see.stanford.edu/course/cs106a">Web page</a></td>
+</tr>
+<tr class="odd">
+    <td colspan="9">An introduction to the engineering of computer applications emphasizing modern software engineering principles: object-oriented design, decomposition, encapsulation, abstraction, and testing. Uses the Java programming language. Emphasis is on good programming style and the built-in facilities of the Java language. The course is explicitly designed to appeal to humanists and social scientists as well as hard-core techies. In fact, most Programming Methodology graduates end up majoring outside of the School of Engineering.</td>
+</tr>
+</table>
+
+<table>
+<tr class="even">
+    <td rowspan="2"><strong>Programming Abstractions</strong></td>
+    <td><a href="Stanford_University" title="wikilink">Stanford University</a></td>
+    <td><a href="Julie_Zelenski" title="wikilink">Julie Zelenski</a></td>
+    <td>English</td>
+    <td>2008</td>
+    <td>27</td>
+    <td>21h</td>
+    <td>CS106B</td>
+    <td><a href="https://www.youtube.com/playlist?list=PLFE6E58F856038C69">Youtube list</a></td>
+    <td><a href="https://see.stanford.edu/Course/CS106B">Web page</a></td>
+</tr>
+<tr class="even">
+    <td colspan="9">This course (CS 106B) is the successor to CS 106A and covers more advanced programming topics such as recursion, algorithmic analysis, and data abstraction. It is taught using the C++ programming language, which is similar to both C and Java. Topics include abstraction and its relation to programming. Software engineering principles of data abstraction and modularity. Object-oriented programming, fundamental data structures (such as stacks, queues, sets) and data-directed design. Recursion and recursive data structures (linked lists, trees, graphs). Introduction to time and space complexity analysis.</td>
+</tr>
+</table>
+
+<table>
+<tr class="odd">
+    <td rowspan="2"><strong>Programming Paradigms</strong></td>
+    <td><a href="Stanford_University" title="wikilink">Stanford University</a></td>
+    <td><a href="Jerry_Cain" title="wikilink">Jerry Cain</a></td>
+    <td>English</td>
+    <td>2008</td>
+    <td>27</td>
+    <td>22h</td>
+    <td>CS107</td>
+    <td><a href="https://www.youtube.com/playlist?list=PL9D558D49CA734A02">Youtube list</a></td>
+    <td><a href="https://see.stanford.edu/course/cs107">Web page</a></td>
+</tr>
+<tr class="odd">
+    <td colspan="9">Programming Paradigms (CS107) introduces several programming languages, including C, Assembly, C++, Concurrent Programming, Scheme, and Python. The class aims to teach students how to write code for each of these individual languages and to understand the programming paradigms behind these languages. Advanced memory management features of C and C++; the differences between imperative and object-oriented paradigms. The functional paradigm (using LISP) and concurrent programming (using C and C++). Brief survey of other modern languages such as Python, Objective C, and C#.</td>
+</tr>
+</table>
+
+<table>
+<tr class="even">
+    <td rowspan="2"><strong>Introduction to operating systems</strong></td>
+    <td><a href="University_at_Buffalo" title="wikilink">University at Buffalo</a></td>
+    <td><a href="Geoffrey_Challen" title="wikilink">Geoffrey Challen</a></td>
+    <td>English</td>
+    <td>2017</td>
+    <td>37</td>
+    <td>28h</td>
+    <td>CSE 421/521</td>
+    <td><a href="https://www.youtube.com/playlist?list=PLE6LEE8y2Jp_z8pkiuvHo7Vz-eQEKsk-I">Youtube list</a></td>
+    <td><a href="https://ops-class.org/courses/buffalo/CSE421_Spring2017/">Web page</a></td>
+</tr>
+<tr class="even">
+    <td colspan="9">This course is an introduction to operating system design and implementation. We study operating systems because they are examples of mature and elegant solutions to a difficult design problem: how to safely and efficiently share system resources and provide abstractions useful to applications.</td>
+</tr>
+</table>
+
+<table>
+<tr class="odd">
+    <td rowspan="2"><strong>Parallel Computer Architecture</strong></td>
+    <td><a href="Carnegie_Mellon_University" title="wikilink">Carnegie Mellon University</a></td>
+    <td><a href="Onur_Mutlu" title="wikilink">Onur Mutlu</a></td>
+    <td>English</td>
+    <td>2012</td>
+    <td>24</td>
+    <td>35h</td>
+    <td>18-742</td>
+    <td><a href="https://www.youtube.com/playlist?list=PL5PHm2jkkXmh4cDkC3s1VBB7-njlgiG5d">Youtube list</a></td>
+    <td><a href="https://course.ece.cmu.edu/~ece742/f12/doku.php">Web page</a></td>
+</tr>
+<tr class="odd">
+    <td colspan="9"></td>
+</tr>
+</table>
+
+<table>
+<tr class="even">
+    <td rowspan="2"><strong>Introduction to Machine Learning</strong></td>
+    <td><a href="University_of_Toronto" title="wikilink">University of Toronto</a></td>
+    <td><a href="Amir_H._Ashouri" title="wikilink">Amir H. Ashouri</a></td>
+    <td>English</td>
+    <td>2019</td>
+    <td>38</td>
+    <td>28h</td>
+    <td>ECE421/ECE1513</td>
+    <td><a href="https://www.youtube.com/playlist?list=PL-Mfq5QS-s8iS9XqKuApPE1TSlnZblFHF">Youtube list</a></td>
+    <td><a href="https://engineering.calendar.utoronto.ca/course/ece421h1">Web page</a></td>
+</tr>
+<tr class="even">
+    <td colspan="9">An Introduction to the basic theory, the fundamental algorithms, and the computational toolboxes of machine learning.</td>
+</tr>
+</table>
+
+<table>
+<tr class="odd">
+    <td rowspan="2"><strong>Machine Learning</strong></td>
+    <td><a href="Stanford_University" title="wikilink">Stanford University</a></td>
+    <td><a href="Andrew_Ng" title="wikilink">Andrew Ng</a></td>
+    <td>English</td>
+    <td>2018</td>
+    <td>20</td>
+    <td>27h</td>
+    <td>CS229</td>
+    <td><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU">Youtube list</a></td>
+    <td><a href="https://cs229.stanford.edu/syllabus-autumn2018.html">Web page</a></td>
+</tr>
+<tr class="odd">
+    <td colspan="9">This course provides a broad introduction to machine learning and statistical pattern recognition. Topics include: supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); unsupervised learning (clustering, dimensionality reduction, kernel methods); learning theory (bias/variance tradeoffs, practical advice); reinforcement learning and adaptive control. The course will also discuss recent applications of machine learning, such as to robotic control, data mining, autonomous navigation, bioinformatics, speech recognition, and text and web data processing.</td>
+</tr>
+
+<!-- Machine Learning, Stanford University, 2008 -->
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Machine Learning</strong></td>
+        <td><a href="Stanford_University" title="wikilink">Stanford University</a></td>
+        <td><a href="Andrew_Ng" title="wikilink">Andrew Ng</a></td>
+        <td>English</td>
+        <td>2008.?</td>
+        <td>20</td>
+        <td>25h</td>
+        <td>CS229</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599">Youtube list</a></td>
+        <td><a href="https://see.stanford.edu/Course/CS229">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">This course provides a broad introduction to machine learning and statistical pattern recognition. Topics include: supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); unsupervised learning (clustering, dimensionality reduction, kernel methods); learning theory (bias/variance tradeoffs; VC theory; large margins); reinforcement learning and adaptive control. The course will also discuss recent applications of machine learning, such as to robotic control, data mining, autonomous navigation, bioinformatics, speech recognition, and text and web data processing.</td>
+    </tr>
+</table>
+
+<!-- Introduction to Deep Learning, MIT, 2021 -->
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>Introduction to Deep Learning</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="Alexander_Amini" title="wikilink">Alexander Amini</a></td>
+        <td>English</td>
+        <td>2021</td>
+        <td>43</td>
+        <td>29h</td>
+        <td>6.S191</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI">Youtube list</a></td>
+        <td><a href="http://introtodeeplearning.com/">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">MIT's introductory course on deep learning methods with applications to computer vision, natural language processing, biology, and more! Students will gain foundational knowledge of deep learning algorithms and get practical experience in building neural networks in TensorFlow. Course concludes with a project proposal competition with feedback from staff and panel of industry sponsors. Prerequisites assume calculus (i.e. taking derivatives) and linear algebra (i.e. matrix multiplication), we'll try to explain everything else along the way! Experience in Python is helpful but not necessary. This class is taught during MIT's IAP term by current MIT PhD researchers.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Intro to Game Programming (C++)</strong></td>
+        <td><a href="Memorial_University_of_Newfoundland" title="wikilink">Memorial University of Newfoundland</a></td>
+        <td><a href="David_Churchill" title="wikilink">David Churchill</a></td>
+        <td>English</td>
+        <td>2022</td>
+        <td>22</td>
+        <td>29h</td>
+        <td>COMP 4300</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL_xRyXins848nDj2v-TJYahzvs-XW9sVV">Youtube list</a></td>
+        <td><a href="http://www.cs.mun.ca/~dchurchill/teaching.shtml">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">This is an introductory course for students interested in learning the fundamentals of game programming. Topics include vector math for games, fundamentals of rendering, introduction to animation and artificial intelligence, collision detection, game physics and user-interfaces.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>AI for Video Games</strong></td>
+        <td><a href="Memorial_University_of_Newfoundland" title="wikilink">Memorial University of Newfoundland</a></td>
+        <td><a href="David_Churchill" title="wikilink">David Churchill</a></td>
+        <td>English</td>
+        <td>2022</td>
+        <td>22</td>
+        <td>20h</td>
+        <td>COMP 4303</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL_xRyXins84_gIuIZmdOUOoYQR95I9k95">Youtube list</a></td>
+        <td><a href="http://www.cs.mun.ca/~dchurchill/teaching.shtml">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">This course provides an introduction to specific state-of-the-art algorithmic techniques and data structures that are used to efficiently implement humanlike abilities (e.g., awareness, memory, rational decision-making (under uncertainty), movement, co-operation in groups) in computer game agents.</td>
+    </tr>
+</table>
+
 
 ## Economy
 
