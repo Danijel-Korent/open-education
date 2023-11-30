@@ -1374,102 +1374,69 @@ duration</p></th>
 ## Philosophy
 
 <table>
-<thead>
-<tr class="header">
-<th><p>Name</p></th>
-<th><p>Institution</p></th>
-<th><p>Lecturer</p></th>
-<th><p>Language</p></th>
-<th><p>Year</p></th>
-<th><p>Num. of<br />
-lectures</p></th>
-<th><p>Total<br />
-duration</p></th>
-<th><p>Code</p></th>
-<th><p>Course description</p></th>
-<th><p>URL 1</p></th>
-<th><p>URL 2</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><strong>Death</strong></p></td>
-<td><p><a href="Yale_University" title="wikilink">Yale
-University</a></p></td>
-<td><p><a href="Shelly_Kagan" title="wikilink">Shelly Kagan</a></p></td>
-<td><p>English</p></td>
-<td><p>2007.</p></td>
-<td><p>26</p></td>
-<td><p>21h</p></td>
-<td><p>PHIL 176</p></td>
-<td><p>There is one thing I can be sure of: I am going to die. But what
-am I to make of that fact? This course will examine a number of issues
-that arise once we begin to reflect on our mortality. The possibility
-that death may not actually be the end is considered. Are we, in some
-sense, immortal? Would immortality be desirable? Also a clearer notion
-of what it is to die is examined. What does it mean to say that a person
-has died? What kind of fact is that? And, finally, different attitudes
-to death are evaluated. Is death an evil? How? Why? Is suicide morally
-permissible? Is it rational? How should the knowledge that I am going to
-die affect the way I live my life?</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLEA18FAF1AD9047B0">Youtube
-list</a></p></td>
-<td><p><a href="https://oyc.yale.edu/death/phil-176">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Darwin and Design</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="James_Paradis" title="wikilink">James
-Paradis</a></p></td>
-<td><p>English</p></td>
-<td><p>2010.</p></td>
-<td><p>21</p></td>
-<td><p>19h</p></td>
-<td><p>21L.448J</p></td>
-<td><p>Humans are social animals; social demands, both cooperative and
-competitive, structure our development, our brain and our mind. This
-course covers social development, social behaviour, social cognition and
-social neuroscience, in both human and non-human social animals. Topics
-include altruism, empathy, communication, theory of mind, aggression,
-power, groups, mating, and morality. Methods include evolutionary
-biology, neuroscience, cognitive science, social psychology and
-anthropology.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLF7D7F81CD5E07497">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/literature/21l-448j-darwin-and-design-fall-2010/">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Philosophy and the Science of Human
-Nature</strong></p></td>
-<td><p><a href="Yale_University" title="wikilink">Yale
-University</a></p></td>
-<td><p><a href="Tamar_Gendler" title="wikilink">Tamar
-Gendler</a></p></td>
-<td><p>English</p></td>
-<td><p>2011.</p></td>
-<td><p>26</p></td>
-<td><p>20h</p></td>
-<td><p>PHIL 181</p></td>
-<td><p>Philosophy and the Science of Human Nature pairs central texts
-from Western philosophical tradition (including works by Plato,
-Aristotle, Epictetus, Hobbes, Kant, Mill, Rawls, and Nozick) with recent
-findings in cognitive science and related fields. The course is
-structured around three intertwined sets of topics: Happiness and
-Flourishing; Morality and Justice; and Political Legitimacy and Social
-Structures.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL3F6BC200B2930084">Youtube
-list</a></p></td>
-<td><p><a href="https://oyc.yale.edu/philosophy/phil-181">Web
-page</a></p></td>
-</tr>
-</tbody>
+    <thead>
+        <th>Name</th>
+        <th>Institution</th>
+        <th>Lecturer</th>
+        <th>Language</th>
+        <th>Year</th>
+        <th>Num. of lectures</th>
+        <th>Total duration</th>
+        <th>Code</th>
+        <th>URL 1</th>
+        <th>URL 2</th>
+    </thead>
+    <tr class="odd">
+        <td rowspan="2"><strong>Death</strong></td>
+        <td><a href="Yale_University" title="wikilink">Yale University</a></td>
+        <td><a href="Shelly_Kagan" title="wikilink">Shelly Kagan</a></td>
+        <td>English</td>
+        <td>2007</td>
+        <td>26</td>
+        <td>21h</td>
+        <td>PHIL 176</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLEA18FAF1AD9047B0">Youtube list</a></td>
+        <td><a href="https://oyc.yale.edu/death/phil-176">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">This course examines issues that arise upon reflecting on mortality. It considers the possibility of immortality and its desirability, explores what it means to die, and evaluates attitudes towards death. Topics include suicide's moral permissibility and rationality, and how knowledge of death affects life.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Darwin and Design</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="James_Paradis" title="wikilink">James Paradis</a></td>
+        <td>English</td>
+        <td>2010</td>
+        <td>21</td>
+        <td>19h</td>
+        <td>21L.448J</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLF7D7F81CD5E07497">Youtube list</a></td>
+        <td><a href="https://ocw.mit.edu/courses/literature/21l-448j-darwin-and-design-fall-2010/">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">This course explores the impact of epidemic diseases on Western society and culture from the bubonic plague to HIV/AIDS. It includes topics like the rise of the germ theory, the development of tropical medicine, and the issue of emerging and re-emerging diseases.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>Philosophy and the Science of Human Nature</strong></td>
+        <td><a href="Yale_University" title="wikilink">Yale University</a></td>
+        <td><a href="Tamar_Gendler" title="wikilink">Tamar Gendler</a></td>
+        <td>English</td>
+        <td>2011</td>
+        <td>26</td>
+        <td>20h</td>
+        <td>PHIL 181</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL3F6BC200B2930084">Youtube list</a></td>
+        <td><a href="https://oyc.yale.edu/philosophy/phil-181">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">This course pairs Western philosophical texts with cognitive science findings. Topics include Happiness and Flourishing, Morality and Justice, and Political Legitimacy and Social Structures. It examines philosophical ideas alongside scientific understanding of human nature.</td>
+    </tr>
 </table>
 
 ## Physics
