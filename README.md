@@ -1442,250 +1442,195 @@ duration</p></th>
 ## Physics
 
 <table>
-<thead>
-<tr class="header">
-<th><p>Name</p></th>
-<th><p>Institution</p></th>
-<th><p>Lecturer</p></th>
-<th><p>Language</p></th>
-<th><p>Year</p></th>
-<th><p>Num. of<br />
-lectures</p></th>
-<th><p>Total<br />
-duration</p></th>
-<th><p>Code</p></th>
-<th><p>Course description</p></th>
-<th><p>URL 1</p></th>
-<th><p>URL 2</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><strong>Physics for Future Presidents</strong></p></td>
-<td><p><a href="UC_Berkeley" title="wikilink">UC Berkeley</a></p></td>
-<td><p><a href="Richard_A._Muller" title="wikilink">Richard A.
-Muller</a></p></td>
-<td><p>English</p></td>
-<td><p>2006.</p></td>
-<td><p>26</p></td>
-<td><p>29h</p></td>
-<td><p>PHYS 10</p></td>
-<td><p>Yes, the title of the colloquium is serious. Energy, global
-warming, terrorism and counter-terrorism, nukes, internet, satellites,
-remote sensing, ICBMs and ABMs, DVDs and HDTVs—economic and political
-issues increasingly have a strong high tech content. Misjudge the
-science, make a wrong decision. Yet many of our leaders never studied
-physics, and do not understand science and technology. Physics is the
-liberal arts of high tech. Is science too hard for world leaders to
-learn? No. Think of an analogous example: Charlemagne was only half
-literate. He could read but not write. Writing was a skill considered
-too tough even for world leaders, just as physics is today. And yet now
-most of the world is literate.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLaLOVNqqD-2Ep5N9os9jWMSkxK_TLki9h">Youtube
-list</a></p></td>
-<td><p><a
-href="https://physics.berkeley.edu/physics-for-future-presidents">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Fundamentals of Physics</strong></p></td>
-<td><p><a href="Yale_University" title="wikilink">Yale
-University</a></p></td>
-<td><p><a href="Ramamurti_Shankar" title="wikilink">Ramamurti
-Shankar</a></p></td>
-<td><p>English</p></td>
-<td><p>2006.</p></td>
-<td><p>24</p></td>
-<td><p>29h</p></td>
-<td><p>PHYS 200</p></td>
-<td><p>This course provides a thorough introduction to the principles
-and methods of physics for students who have good preparation in physics
-and mathematics. Emphasis is placed on problem solving and quantitative
-reasoning. This course covers Newtonian mechanics, special relativity,
-gravitation, thermodynamics, and waves.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLFE3074A4CB751B2B">Youtube
-list</a></p></td>
-<td><p><a href="https://oyc.yale.edu/physics/phys-200">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Fundamentals of Physics II</strong></p></td>
-<td><p><a href="Yale_University" title="wikilink">Yale
-University</a></p></td>
-<td><p><a href="Ramamurti_Shankar" title="wikilink">Ramamurti
-Shankar</a></p></td>
-<td><p>English</p></td>
-<td><p>2010.</p></td>
-<td><p>25</p></td>
-<td><p>30h</p></td>
-<td><p>PHYS 201</p></td>
-<td><p>This is a continuation of Fundamentals of Physics, I (PHYS 200),
-the introductory course on the principles and methods of physics for
-students who have good preparation in physics and mathematics. This
-course covers electricity, magnetism, optics and quantum
-mechanics.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLD07B2225BB40E582">Youtube
-list</a></p></td>
-<td><p><a href="https://oyc.yale.edu/physics/phys-201">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Physics I: Classical Mechanics</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Walter_Lewin" title="wikilink">Walter Lewin</a></p></td>
-<td><p>English</p></td>
-<td><p>1999</p></td>
-<td><p>40</p></td>
-<td><p>30h</p></td>
-<td><p>8.01x</p></td>
-<td><p>Physics I is a first-year physics course which introduces
-students to classical mechanics</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/physics/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Physics II: Electricity and Magnetism</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Walter_Lewin" title="wikilink">Walter Lewin</a></p></td>
-<td><p>English</p></td>
-<td><p>2002.</p></td>
-<td><p>40</p></td>
-<td><p>32h</p></td>
-<td><p>8.02x</p></td>
-<td><p>This course is an introduction to electromagnetism and
-electrostatics.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/physics/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Physics III: Vibrations and Waves</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Walter_Lewin" title="wikilink">Walter Lewin</a></p></td>
-<td><p>English</p></td>
-<td><p>2004.</p></td>
-<td><p>24</p></td>
-<td><p>30h</p></td>
-<td><p>8.03</p></td>
-<td><p>Vibrations and waves are everywhere. If you take any system and
-disturb it from a stable equilibrium, the resultant motion will be waves
-and vibrations. Think of a guitar string—pluck the string, and it
-vibrates. The sound waves generated make their way to our ears, and we
-hear the string's sound. Our eyes see what's happening because they
-receive the electromagnetic waves of the light reflected from the guitar
-string, so that we can recognize the beautiful sinusoidal waves on the
-string. In fact, without vibrations and waves, we could not recognize
-the universe around us at all!</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLyQSN7X0ro22WeXM2QCKJm2NP_xHpGV89">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Quantum Physics I</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Allan_Adams" title="wikilink">Allan Adams</a>, Matthew
-Evans, <a href="Barton_Zwiebach" title="wikilink">Barton
-Zwiebach</a></p></td>
-<td><p>English</p></td>
-<td><p>2013.</p></td>
-<td><p>25</p></td>
-<td><p>33h</p></td>
-<td><p>8.04</p></td>
-<td><p>This course covers the experimental basis of quantum physics. It
-introduces wave mechanics, Schrödinger's equation in a single dimension,
-and Schrödinger's equation in three dimensions.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLUl4u3cNGP61-9PEhRognw5vryrSEVLPr">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Quantum Physics II</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Barton_Zwiebach" title="wikilink">Barton
-Zwiebach</a></p></td>
-<td><p>English</p></td>
-<td><p>2013.</p></td>
-<td><p>26</p></td>
-<td><p>36h</p></td>
-<td><p>8.05</p></td>
-<td><p>Together, this course and 8.06 Quantum Physics III cover quantum
-physics with applications drawn from modern physics. Topics covered in
-this course include the general formalism of quantum mechanics, harmonic
-oscillator, quantum mechanics in three-dimensions, angular momentum,
-spin, and addition of angular momentum.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLyQSN7X0ro21y1VjcdTi5jbpH26O-Tk68">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/physics/8-05-quantum-physics-ii-fall-2013/">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Quantum Mechanics</strong></p></td>
-<td><p><a href="University_of_Oxford" title="wikilink">University of
-Oxford</a></p></td>
-<td><p><a href="James_Binney" title="wikilink">James Binney</a></p></td>
-<td><p>English</p></td>
-<td><p>2009.</p></td>
-<td><p>27</p></td>
-<td><p>22h</p></td>
-<td></td>
-<td><p>In this series of physics lectures, Professor J.J. Binney
-explains how probabilities are obtained from quantum amplitudes, why
-they give rise to quantum interference, the concept of a complete set of
-amplitudes and how this defines a "quantum state".</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLaLOVNqqD-2F6oe_-BUniUBz_5pmp1tyk">Youtube
-list</a></p></td>
-<td><p><a href="https://podcasts.ox.ac.uk/series/quantum-mechanics">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Frontiers/Controversies in Astrophysics</strong></p></td>
-<td><p><a href="Yale_University" title="wikilink">Yale
-University</a></p></td>
-<td><p><a href="Charles_Bailyn" title="wikilink">Charles
-Bailyn</a></p></td>
-<td><p>English</p></td>
-<td><p>2007.</p></td>
-<td><p>24</p></td>
-<td><p>19h</p></td>
-<td><p>ASTR 160</p></td>
-<td><p>This course focuses on three particularly interesting areas of
-astronomy that are advancing very rapidly: Extra-Solar Planets, Black
-Holes, and Dark Energy. Particular attention is paid to current projects
-that promise to improve our understanding significantly over the next
-few years. The course explores not just what is known, but what is
-currently not known, and how astronomers are going about trying to find
-out.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLD1515420F4E601A4">Youtube
-list</a></p></td>
-<td><p><a href="https://oyc.yale.edu/astronomy/astr-160">Web
-page</a></p></td>
-</tr>
-</tbody>
+    <thead>
+        <th>Name</th>
+        <th>Institution</th>
+        <th>Lecturer</th>
+        <th>Language</th>
+        <th>Year</th>
+        <th>Num. of lectures</th>
+        <th>Total duration</th>
+        <th>Code</th>
+        <th>URL 1</th>
+        <th>URL 2</th>
+    </thead>
+    <tr class="odd">
+        <td rowspan="2"><strong>Physics for Future Presidents</strong></td>
+        <td><a href="UC_Berkeley" title="wikilink">UC Berkeley</a></td>
+        <td><a href="Richard_A._Muller" title="wikilink">Richard A. Muller</a></td>
+        <td>English</td>
+        <td>2006</td>
+        <td>26</td>
+        <td>29h</td>
+        <td>PHYS 10</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLaLOVNqqD-2Ep5N9os9jWMSkxK_TLki9h">Youtube list</a></td>
+        <td><a href="https://physics.berkeley.edu/physics-for-future-presidents">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">The course covers energy, global warming, terrorism, nukes, and more, providing a scientific understanding necessary for future leaders. It emphasizes the importance of physics in decision-making and the need for leaders to be educated in science and technology.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Fundamentals of Physics</strong></td>
+        <td><a href="Yale_University" title="wikilink">Yale University</a></td>
+        <td><a href="Ramamurti_Shankar" title="wikilink">Ramamurti Shankar</a></td>
+        <td>English</td>
+        <td>2006</td>
+        <td>24</td>
+        <td>29h</td>
+        <td>PHYS 200</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLFE3074A4CB751B2B">Youtube list</a></td>
+        <td><a href="https://oyc.yale.edu/physics/phys-200">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">A comprehensive introduction to physics covering Newtonian mechanics, special relativity, gravitation, thermodynamics, and waves. The course emphasizes problem-solving and quantitative reasoning, providing a solid foundation in physics principles and methods.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>Fundamentals of Physics II</strong></td>
+        <td><a href="Yale_University" title="wikilink">Yale University</a></td>
+        <td><a href="Ramamurti_Shankar" title="wikilink">Ramamurti Shankar</a></td>
+        <td>English</td>
+        <td>2010</td>
+        <td>25</td>
+        <td>30h</td>
+        <td>PHYS 201</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLD07B2225BB40E582">Youtube list</a></td>
+        <td><a href="https://oyc.yale.edu/physics/phys-201">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">Continuation of Fundamentals of Physics I, covering electricity, magnetism, optics, and quantum mechanics. This course is designed for students with a strong background in physics and mathematics and aims to deepen their understanding of these fundamental topics.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Physics I: Classical Mechanics</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="Walter_Lewin" title="wikilink">Walter Lewin</a></td>
+        <td>English</td>
+        <td>1999</td>
+        <td>40</td>
+        <td>30h</td>
+        <td>8.01x</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e">Youtube list</a></td>
+        <td><a href="https://ocw.mit.edu/courses/physics/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">An introductory course in classical mechanics, introducing students to the fundamental principles of physics through the study of motion, forces, energy, momentum, and the application of these concepts in real-world scenarios.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>Physics II: Electricity and Magnetism</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="Walter_Lewin" title="wikilink">Walter Lewin</a></td>
+        <td>English</td>
+        <td>2002</td>
+        <td>40</td>
+        <td>32h</td>
+        <td>8.02x</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j">Youtube list</a></td>
+        <td><a href="https://ocw.mit.edu/courses/physics/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">Introduction to electromagnetism and electrostatics, exploring the fundamental concepts and principles that form the basis of electrical and magnetic phenomena in physics.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Physics III: Vibrations and Waves</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="Walter_Lewin" title="wikilink">Walter Lewin</a></td>
+        <td>English</td>
+        <td>2004</td>
+        <td>24</td>
+        <td>30h</td>
+        <td>8.03</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLyQSN7X0ro22WeXM2QCKJm2NP_xHpGV89">Youtube list</a></td>
+        <td><a href="https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">This course focuses on vibrations and waves, exploring the fundamental principles and phenomena in physics through real-world examples like guitar strings and other systems disturbed from stable equilibrium.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>Quantum Physics I</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="Allan_Adams" title="wikilink">Allan Adams</a>, Matthew Evans, <a href="Barton_Zwiebach" title="wikilink">Barton Zwiebach</a></td>
+        <td>English</td>
+        <td>2013</td>
+        <td>25</td>
+        <td>33h</td>
+        <td>8.04</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP61-9PEhRognw5vryrSEVLPr">Youtube list</a></td>
+        <td><a href="https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">Covering the experimental basis of quantum physics, the course introduces wave mechanics, Schrödinger's equation, and explores quantum mechanics in both one and three dimensions.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Quantum Physics II</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="Barton_Zwiebach" title="wikilink">Barton Zwiebach</a></td>
+        <td>English</td>
+        <td>2013</td>
+        <td>26</td>
+        <td>36h</td>
+        <td>8.05</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLyQSN7X0ro21y1VjcdTi5jbpH26O-Tk68">Youtube list</a></td>
+        <td><a href="https://ocw.mit.edu/courses/physics/8-05-quantum-physics-ii-fall-2013/">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">Continuing from Quantum Physics I, this course covers general formalism of quantum mechanics, harmonic oscillator, quantum mechanics in three-dimensions, angular momentum, spin, and addition of angular momentum.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>Quantum Mechanics</strong></td>
+        <td><a href="University_of_Oxford" title="wikilink">University of Oxford</a></td>
+        <td><a href="James_Binney" title="wikilink">James Binney</a></td>
+        <td>English</td>
+        <td>2009</td>
+        <td>27</td>
+        <td>22h</td>
+        <td></td>
+        <td><a href="https://www.youtube.com/playlist?list=PLaLOVNqqD-2F6oe_-BUniUBz_5pmp1tyk">Youtube list</a></td>
+        <td><a href="https://podcasts.ox.ac.uk/series/quantum-mechanics">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">Professor Binney explains the concepts of quantum amplitudes, interference, complete set of amplitudes, quantum state, and other key aspects of quantum mechanics.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Frontiers/Controversies in Astrophysics</strong></td>
+        <td><a href="Yale_University" title="wikilink">Yale University</a></td>
+        <td><a href="Charles_Bailyn" title="wikilink">Charles Bailyn</a></td>
+        <td>English</td>
+        <td>2007</td>
+        <td>24</td>
+        <td>19h</td>
+        <td>ASTR 160</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLD1515420F4E601A4">Youtube list</a></td>
+        <td><a href="https://oyc.yale.edu/astronomy/astr-160">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">Exploring rapidly advancing areas in astronomy, this course covers extra-solar planets, black holes, and dark energy with an emphasis on current projects and future advancements.</td>
+    </tr>
 </table>
 
 ## Political science
