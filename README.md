@@ -1130,285 +1130,213 @@ duration</p></th>
 ## Mathematics
 
 <table>
-<thead>
-<tr class="header">
-<th><p>Name</p></th>
-<th><p>Institution</p></th>
-<th><p>Lecturer</p></th>
-<th><p>Language</p></th>
-<th><p>Year</p></th>
-<th><p>Num. of<br />
-lectures</p></th>
-<th><p>Total<br />
-duration</p></th>
-<th><p>Code</p></th>
-<th><p>Course description</p></th>
-<th><p>URL 1</p></th>
-<th><p>URL 2</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><strong>College Algebra</strong></p></td>
-<td><p><a href="University_of_Missouri–Kansas_City"
-title="wikilink">University of Missouri–Kansas City</a></p></td>
-<td><p><a href="Richard_Delaware" title="wikilink">Richard
-Delaware</a></p></td>
-<td><p>English</p></td>
-<td><p>1998.</p></td>
-<td><p>40</p></td>
-<td><p>43h</p></td>
-<td><p>Math 110</p></td>
-<td><p>College Algebra Lectures with UMKC's Professor Richard Delaware,
-in association with UMKC's Video Based Supplemental Instruction
-Program.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLDE28CF08BD313B2A">Youtube
-list</a></p></td>
-<td><p><a href="http://d.web.umkc.edu/delawarer/VSI/RDvsi.htm">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Calculus I</strong></p></td>
-<td><p><a href="University_of_Missouri–Kansas_City"
-title="wikilink">University of Missouri–Kansas City</a></p></td>
-<td><p><a href="Richard_Delaware" title="wikilink">Richard
-Delaware</a></p></td>
-<td><p>English</p></td>
-<td><p>2005.</p></td>
-<td><p>36</p></td>
-<td><p>30h</p></td>
-<td><p>Math 210</p></td>
-<td><p>Calculus 1/ Calc 1 with UMKC's Professor Richard Delaware, in
-association with UMKC's Video Based Supplemental Instruction
-Program</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLF5E22224459D23D9">Youtube
-list</a></p></td>
-<td><p><a href="http://d.web.umkc.edu/delawarer/VSI/RDvsiCalc.htm">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Multivariable Calculus</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Denis_Auroux" title="wikilink">Denis Auroux</a></p></td>
-<td><p>English</p></td>
-<td><p>2007.</p></td>
-<td><p>35</p></td>
-<td><p>28h</p></td>
-<td><p>18.02</p></td>
-<td><p>This course covers vector and multi-variable calculus. It is the
-second semester in the freshman calculus sequence. Topics include
-vectors and matrices, partial derivatives, double and triple integrals,
-and vector calculus in 2 and 3-space.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Differential Equations</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Arthur_Mattuck" title="wikilink">Arthur Mattuck</a>, <a
-href="Haynes_Miller" title="wikilink">Haynes Miller</a>, <a
-href="Jeremy_Orloff" title="wikilink">Jeremy Orloff</a>, John
-Lewis</p></td>
-<td><p>English</p></td>
-<td><p>2011.</p></td>
-<td><p>32</p></td>
-<td><p>31h</p></td>
-<td><p>18.03SC</p></td>
-<td><p>Differential equations are the language in which the laws of
-nature are expressed. Understanding properties of solutions of
-differential equations is fundamental to much of contemporary science
-and engineering. Ordinary differential equations (ODE's) deal with
-functions of one variable, which can often be thought of as
-time.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL64BDFBDA2AF24F7E">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Mathematical Methods for Engineers I / Computational
-Science &amp; Engineering I</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Gilbert_Strang" title="wikilink">Gilbert
-Strang</a></p></td>
-<td><p>English</p></td>
-<td><p>2008.</p></td>
-<td><p>50</p></td>
-<td><p>42h</p></td>
-<td><p>18.085</p></td>
-<td><p>This course provides a review of linear algebra, including
-applications to networks, structures, and estimation, Lagrange
-multipliers. Also covered are: differential equations of equilibrium;
-Laplace's equation and potential flow; boundary-value problems; minimum
-principles and calculus of variations; Fourier series; discrete Fourier
-transform; convolution; and applications. Note: This course was
-previously called "Mathematical Methods for Engineers I.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLF706B428FB7BD52C">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Mathematical Methods for Engineers II</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Gilbert_Strang" title="wikilink">Gilbert
-Strang</a></p></td>
-<td><p>English</p></td>
-<td><p>2006.</p></td>
-<td><p>29</p></td>
-<td><p>25h</p></td>
-<td><p>18.086</p></td>
-<td><p>This graduate-level course is a continuation of Mathematical
-Methods for Engineers I (18.085). Topics include numerical methods;
-initial-value problems; network flows; and optimization.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL3A13781649466805">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Linear Finite Element Analysis</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Klaus-Jürgen_Bathe" title="wikilink">Klaus-Jürgen
-Bathe</a></p></td>
-<td><p>English</p></td>
-<td><p>1982./1986.</p></td>
-<td><p>12</p></td>
-<td><p>11h</p></td>
-<td><p>RES.2-002</p></td>
-<td><p>This video series is a comprehensive course of study that
-presents effective finite element procedures for the linear analysis of
-solids and structures. The finite element method is the ideal tool for
-solving static and dynamic problems in engineering and the sciences.
-Linear analysis assumes linear elastic behavior and infinitesimally
-small displacements and strains. To establish appropriate models for
-analysis, it is necessary to become familiar with the finite element
-methods available.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLD4017FC423EC3EB5">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/resources/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Nonlinear Finite Element Analysis</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Klaus-Jürgen_Bathe" title="wikilink">Klaus-Jürgen
-Bathe</a></p></td>
-<td><p>English</p></td>
-<td><p>1982./1986.</p></td>
-<td><p>22</p></td>
-<td><p>19h</p></td>
-<td><p>RES.2-002</p></td>
-<td><p>In these videos, Professor K. J. Bathe, a researcher of world
-renown in the field of finite element analysis, builds upon the concepts
-developed in his previous video course on Linear Analysis. General
-nonlinear analysis techniques are presented by emphasizing physical
-concepts. The mathematical foundation of nonlinear finite element
-techniques is given in light of these physical requirements. A wide
-range of questions in engineering and the sciences can be addressed with
-these methods. Upon completion of the course, participants will be able
-to simulate and analyze problems such as: Large displacement collapse or
-buckling of structures, Progressive damage of structural components
-under high-temperature conditions, Stresses and strains of structures
-under severe earthquake loads, Accident conditions due to sudden
-overloads, Construction and repair of structures, Stability of
-underground openings</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL75C727EA9F6A0E8B">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/resources/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/nonlinear/">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Introduction to Probability and
-Statistics</strong></p></td>
-<td><p><a href="University_of_California,_Irvine"
-title="wikilink">University of California, Irvine</a></p></td>
-<td><p><a href="Michael_C._Cranston" title="wikilink">Michael C.
-Cranston</a></p></td>
-<td><p>English</p></td>
-<td><p>2013.</p></td>
-<td><p>16</p></td>
-<td><p>25h</p></td>
-<td><p>131A</p></td>
-<td><p>Introductory course covering basic principles of probability and
-statistical inference. Axiomatic definition of probability, random
-variables, probability distributions, expectation.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7l-ML8sMNFHx0CY7jyudZq2">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.uci.edu/courses/math_131a_introduction_to_probability_and_statistics.html">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Statistics for the Behavioral Sciences</strong></p></td>
-<td><p><a href="New_York_University" title="wikilink">New York
-University</a></p></td>
-<td><p><a href="Elizabeth_Baue" title="wikilink">Elizabeth
-Baue</a></p></td>
-<td><p>English</p></td>
-<td></td>
-<td><p>23</p></td>
-<td><p>24h</p></td>
-<td><p>PSYCH-UA 10</p></td>
-<td><p>This applied math course provides students with the basic tools
-for evaluating data from studies in the behavioral sciences,
-particularly psychology. Students will gain familiarity with data
-description, variance and variability, significance tests, confident
-intervals, correlation and linear regression, analysis of variance, and
-other related topics. The goal is to learn the application of
-statistical reasoning to decision making. Current events are often used
-to illustrate these issues.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL65EEC7C0F625F8DF">Youtube
-list</a></p></td>
-<td><p><a
-href="https://as.nyu.edu/content/nyu-as/as/departments/psychology/courses/statistics-for-the-behavioral-sciences.html">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>The Fourier Transforms and Its
-Applications</strong></p></td>
-<td><p><a href="Stanford_University" title="wikilink">Stanford
-University</a></p></td>
-<td><p><a href="Brad_Osgood" title="wikilink">Brad Osgood</a></p></td>
-<td><p>English</p></td>
-<td><p>2007.</p></td>
-<td><p>30</p></td>
-<td><p>26h</p></td>
-<td><p>EE 261</p></td>
-<td><p>The Fourier transform is a tool for solving physical problems. In
-this course the emphasis is on relating the theoretical principles to
-solving practical engineering and science problems.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLB24BC7956EE040CD">Youtube
-list</a></p></td>
-<td><p><a href="https://see.stanford.edu/course/ee261">Web
-page</a></p></td>
-</tr>
-</tbody>
+    <thead>
+        <th>Name</th>
+        <th>Institution</th>
+        <th>Lecturer</th>
+        <th>Language</th>
+        <th>Year</th>
+        <th>Num. of lectures</th>
+        <th>Total duration</th>
+        <th>Code</th>
+        <th>URL 1</th>
+        <th>URL 2</th>
+    </thead>
+    <tr class="odd">
+        <td rowspan="2"><strong>College Algebra</strong></td>
+        <td><a href="University_of_Missouri–Kansas_City" title="wikilink">University of Missouri–Kansas City</a></td>
+        <td><a href="Richard_Delaware" title="wikilink">Richard Delaware</a></td>
+        <td>English</td>
+        <td>1998</td>
+        <td>40</td>
+        <td>43h</td>
+        <td>Math 110</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLDE28CF08BD313B2A">Youtube list</a></td>
+        <td><a href="http://d.web.umkc.edu/delawarer/VSI/RDvsi.htm">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">College Algebra Lectures with UMKC's Professor Richard Delaware, in association with UMKC's Video Based Supplemental Instruction Program.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Calculus I</strong></td>
+        <td><a href="University_of_Missouri–Kansas_City" title="wikilink">University of Missouri–Kansas City</a></td>
+        <td><a href="Richard_Delaware" title="wikilink">Richard Delaware</a></td>
+        <td>English</td>
+        <td>2005</td>
+        <td>36</td>
+        <td>30h</td>
+        <td>Math 210</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLF5E22224459D23D9">Youtube list</a></td>
+        <td><a href="http://d.web.umkc.edu/delawarer/VSI/RDvsiCalc.htm">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">Calculus 1/ Calc 1 with UMKC's Professor Richard Delaware, in association with UMKC's Video Based Supplemental Instruction Program.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>Multivariable Calculus</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="Denis_Auroux" title="wikilink">Denis Auroux</a></td>
+        <td>English</td>
+        <td>2007</td>
+        <td>35</td>
+        <td>28h</td>
+        <td>18.02</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38">Youtube list</a></td>
+        <td><a href="https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">This course covers vector and multi-variable calculus. It is the second semester in the freshman calculus sequence. Topics include vectors and matrices, partial derivatives, double and triple integrals, and vector calculus in 2 and 3-space.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Differential Equations</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="Arthur_Mattuck" title="wikilink">Arthur Mattuck</a>, <a href="Haynes_Miller" title="wikilink">Haynes Miller</a>, <a href="Jeremy_Orloff" title="wikilink">Jeremy Orloff</a>, John Lewis</td>
+        <td>English</td>
+        <td>2011</td>
+        <td>32</td>
+        <td>31h</td>
+        <td>18.03SC</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL64BDFBDA2AF24F7E">Youtube list</a></td>
+        <td><a href="https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">Differential equations are the language in which the laws of nature are expressed. Understanding properties of solutions of differential equations is fundamental to much of contemporary science and engineering. Ordinary differential equations (ODE's) deal with functions of one variable, which can often be thought of as time.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>Mathematical Methods for Engineers I / Computational Science & Engineering I</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="Gilbert_Strang" title="wikilink">Gilbert Strang</a></td>
+        <td>English</td>
+        <td>2008</td>
+        <td>50</td>
+        <td>42h</td>
+        <td>18.085</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLF706B428FB7BD52C">Youtube list</a></td>
+        <td><a href="https://ocw.mit.edu/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">This course provides a review of linear algebra, including applications to networks, structures, and estimation, Lagrange multipliers. Also covered are: differential equations of equilibrium; Laplace's equation and potential flow; boundary-value problems; minimum principles and calculus of variations; Fourier series; discrete Fourier transform; convolution; and applications.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Mathematical Methods for Engineers II</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="Gilbert_Strang" title="wikilink">Gilbert Strang</a></td>
+        <td>English</td>
+        <td>2006</td>
+        <td>29</td>
+        <td>25h</td>
+        <td>18.086</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL3A13781649466805">Youtube list</a></td>
+        <td><a href="https://ocw.mit.edu/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">This graduate-level course is a continuation of Mathematical Methods for Engineers I (18.085). Topics include numerical methods; initial-value problems; network flows; and optimization.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>Linear Finite Element Analysis</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="Klaus-Jürgen_Bathe" title="wikilink">Klaus-Jürgen Bathe</a></td>
+        <td>English</td>
+        <td>1982./1986</td>
+        <td>12</td>
+        <td>11h</td>
+        <td>RES.2-002</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLD4017FC423EC3EB5">Youtube list</a></td>
+        <td><a href="https://ocw.mit.edu/resources/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">This video series is a comprehensive course of study that presents effective finite element procedures for the linear analysis of solids and structures. The finite element method is the ideal tool for solving static and dynamic problems in engineering and the sciences.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Nonlinear Finite Element Analysis</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="Klaus-Jürgen_Bathe" title="wikilink">Klaus-Jürgen Bathe</a></td>
+        <td>English</td>
+        <td>1982./1986</td>
+        <td>22</td>
+        <td>19h</td>
+        <td>RES.2-002</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL75C727EA9F6A0E8B">Youtube list</a></td>
+        <td><a href="https://ocw.mit.edu/resources/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/nonlinear/">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">Professor K. J. Bathe, a researcher of world renown in the field of finite element analysis, builds upon the concepts developed in his previous video course on Linear Analysis. General nonlinear analysis techniques are presented by emphasizing physical concepts.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>Introduction to Probability and Statistics</strong></td>
+        <td><a href="University_of_California,_Irvine" title="wikilink">University of California, Irvine</a></td>
+        <td><a href="Michael_C._Cranston" title="wikilink">Michael C. Cranston</a></td>
+        <td>English</td>
+        <td>2013</td>
+        <td>16</td>
+        <td>25h</td>
+        <td>131A</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7l-ML8sMNFHx0CY7jyudZq2">Youtube list</a></td>
+        <td><a href="https://ocw.uci.edu/courses/math_131a_introduction_to_probability_and_statistics.html">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">Introductory course covering basic principles of probability and statistical inference. Axiomatic definition of probability, random variables, probability distributions, expectation.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Statistics for the Behavioral Sciences</strong></td>
+        <td><a href="New_York_University" title="wikilink">New York University</a></td>
+        <td><a href="Elizabeth_Baue" title="wikilink">Elizabeth Baue</a></td>
+        <td>English</td>
+        <td></td>
+        <td>23</td>
+        <td>24h</td>
+        <td>PSYCH-UA 10</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL65EEC7C0F625F8DF">Youtube list</a></td>
+        <td><a href="https://as.nyu.edu/content/nyu-as/as/departments/psychology/courses/statistics-for-the-behavioral-sciences.html">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">This applied math course provides students with the basic tools for evaluating data from studies in the behavioral sciences, particularly psychology. Students will gain familiarity with data description, variance and variability, significance tests, confident intervals, correlation and linear regression, analysis of variance, and other related topics.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>The Fourier Transforms and Its Applications</strong></td>
+        <td><a href="Stanford_University" title="wikilink">Stanford University</a></td>
+        <td><a href="Brad_Osgood" title="wikilink">Brad Osgood</a></td>
+        <td>English</td>
+        <td>2007</td>
+        <td>30</td>
+        <td>26h</td>
+        <td>EE 261</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLB24BC7956EE040CD">Youtube list</a></td>
+        <td><a href="https://see.stanford.edu/course/ee261">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">The Fourier transform is a tool for solving physical problems. In this course, the emphasis is on relating the theoretical principles to solving practical engineering and science problems.</td>
+    </tr>
 </table>
 
 ## Pedagogy
