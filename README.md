@@ -1342,53 +1342,33 @@ duration</p></th>
 ## Pedagogy
 
 <table>
-<thead>
-<tr class="header">
-<th><p>Name</p></th>
-<th><p>Institution</p></th>
-<th><p>Lecturer</p></th>
-<th><p>Language</p></th>
-<th><p>Year</p></th>
-<th><p>Num. of<br />
-lectures</p></th>
-<th><p>Total<br />
-duration</p></th>
-<th><p>Code</p></th>
-<th><p>Course description</p></th>
-<th><p>URL 1</p></th>
-<th><p>URL 2</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><strong>Teaching College-Level Science and
-Engineering</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Sanjoy_Mahajan" title="wikilink">Sanjoy
-Mahajan</a></p></td>
-<td><p>English</p></td>
-<td><p>2009.</p></td>
-<td><p>11</p></td>
-<td><p>15h</p></td>
-<td><p>5.95J</p></td>
-<td><p>This participatory seminar focuses on the knowledge and skills
-necessary for teaching science and engineering in higher education. This
-course is designed for graduate students interested in an academic
-career, and anyone else interested in teaching. Readings and discussions
-include: teaching equations for understanding, designing exam and
-homework questions, incorporating histories of science, creating
-absorbing lectures, teaching for transfer, the evils of PowerPoint, and
-planning a course. The subject is appropriate for both novices and those
-with teaching experience.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLB1304385546D6F86">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/chemistry/5-95j-teaching-college-level-science-and-engineering-spring-2009/">Web
-page</a></p></td>
-</tr>
-</tbody>
+    <thead>
+        <th>Name</th>
+        <th>Institution</th>
+        <th>Lecturer</th>
+        <th>Language</th>
+        <th>Year</th>
+        <th>Num. of lectures</th>
+        <th>Total duration</th>
+        <th>Code</th>
+        <th>URL 1</th>
+        <th>URL 2</th>
+    </thead>
+    <tr class="odd">
+        <td rowspan="2"><strong>Teaching College-Level Science and Engineering</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="Sanjoy_Mahajan" title="wikilink">Sanjoy Mahajan</a></td>
+        <td>English</td>
+        <td>2009</td>
+        <td>11</td>
+        <td>15h</td>
+        <td>5.95J</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLB1304385546D6F86">Youtube list</a></td>
+        <td><a href="https://ocw.mit.edu/courses/chemistry/5-95j-teaching-college-level-science-and-engineering-spring-2009/">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">This participatory seminar focuses on the knowledge and skills necessary for teaching science and engineering in higher education. Designed for graduate students interested in an academic career, and anyone else interested in teaching, it covers topics such as teaching equations for understanding, designing exam and homework questions, incorporating histories of science, creating engaging lectures, teaching for transfer, the impact of PowerPoint, and planning a course.</td>
+    </tr>
 </table>
 
 ## Philosophy
