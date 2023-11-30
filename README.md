@@ -899,339 +899,233 @@ duration</p></th>
 ## History
 
 <table>
-<thead>
-<tr class="header">
-<th><p>Name</p></th>
-<th><p>Institution</p></th>
-<th><p>Lecturer</p></th>
-<th><p>Language</p></th>
-<th><p>Year</p></th>
-<th><p>Num. of<br />
-lectures</p></th>
-<th><p>Total<br />
-duration</p></th>
-<th><p>Code</p></th>
-<th><p>Course description</p></th>
-<th><p>URL 1</p></th>
-<th><p>URL 2</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><strong>Introduction to Ancient Greek History</strong></p></td>
-<td><p><a href="Yale_University" title="wikilink">Yale
-University</a></p></td>
-<td><p><a href="Donald_Kagan" title="wikilink">Donald Kagan</a></p></td>
-<td><p>English</p></td>
-<td><p>2007.</p></td>
-<td><p>24</p></td>
-<td><p>28h</p></td>
-<td><p>CLCV 205</p></td>
-<td><p>This is an introductory course in Greek history tracing the
-development of Greek civilization as manifested in political,
-intellectual, and creative achievements from the Bronze Age to the end
-of the classical period. Students read original sources in translation
-as well as the works of modern scholars.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL023BCE5134243987">Youtube
-list</a></p></td>
-<td><p><a href="https://oyc.yale.edu/classics/clcv-205">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Roman Architecture</strong></p></td>
-<td><p><a href="Yale_University" title="wikilink">Yale
-University</a></p></td>
-<td><p><a href="Diana_E._E._Kleiner" title="wikilink">Diana E. E.
-Kleiner</a></p></td>
-<td><p>English</p></td>
-<td><p>2009.</p></td>
-<td><p>24</p></td>
-<td><p>28h</p></td>
-<td><p>HSAR 252</p></td>
-<td><p>This course is an introduction to the great buildings and
-engineering marvels of Rome and its empire, with an emphasis on urban
-planning and individual monuments and their decoration, including mural
-painting. While architectural developments in Rome, Pompeii, and Central
-Italy are highlighted, the course also provides a survey of sites and
-structures in what are now North Italy, Sicily, France, Spain, Germany,
-Greece, Turkey, Croatia, Jordan, Lebanon, Libya, and North Africa. The
-lectures are illustrated with over 1,500 images, many from Professor
-Kleiner's personal collection.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLBCB3059E45654BCE">Youtube
-list</a></p></td>
-<td><p><a href="https://oyc.yale.edu/NODE/176">Web page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>The Early Middle Ages, 284–1000</strong></p></td>
-<td><p><a href="Yale_University" title="wikilink">Yale
-University</a></p></td>
-<td><p><a href="Paul_Freedman" title="wikilink">Paul
-Freedman</a></p></td>
-<td><p>English</p></td>
-<td><p>2011.</p></td>
-<td><p>22</p></td>
-<td><p>17h</p></td>
-<td><p>HIST 210</p></td>
-<td><p>Major developments in the political, social, and religious
-history of Western Europe from the accession of Diocletian to the feudal
-transformation. Topics include the conversion of Europe to Christianity,
-the fall of the Roman Empire, the rise of Islam and the Arabs, the "Dark
-Ages," Charlemagne and the Carolingian renaissance, and the Viking and
-Hungarian invasions.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL77A337915A76F660">Youtube
-list</a></p></td>
-<td><p><a href="https://oyc.yale.edu/history/hist-210">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Early Modern England: Politics, Religion, and Society
-under the Tudors and Stuarts</strong></p></td>
-<td><p><a href="Yale_University" title="wikilink">Yale
-University</a></p></td>
-<td><p><a href="Keith_E._Wrightson" title="wikilink">Keith E.
-Wrightson</a></p></td>
-<td><p>English</p></td>
-<td><p>2009.</p></td>
-<td><p>25</p></td>
-<td><p>19h</p></td>
-<td><p>HIST 251</p></td>
-<td><p>This course is intended to provide an up-to-date introduction to
-the development of English society between the late fifteenth and the
-early eighteenth centuries. Particular issues addressed in the lectures
-will include: the changing social structure; households; local
-communities; gender roles; economic development; urbanization; religious
-change from the Reformation to the Act of Toleration; the Tudor and
-Stuart monarchies; rebellion, popular protest and civil war; witchcraft;
-education, literacy and print culture; crime and the law; poverty and
-social welfare; the changing structures and dynamics of political
-participation and the emergence of parliamentary government.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL18B9F132DFD967A3">Youtube
-list</a></p></td>
-<td><p><a href="https://oyc.yale.edu/history/hist-251">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>European Civilization, 1648-1945</strong></p></td>
-<td><p><a href="Yale_University" title="wikilink">Yale
-University</a></p></td>
-<td><p><a href="John_M._Merriman" title="wikilink">John
-Merriman</a></p></td>
-<td><p>English</p></td>
-<td><p>2008.</p></td>
-<td><p>24</p></td>
-<td><p>18h</p></td>
-<td><p>HIST 202</p></td>
-<td><p>This course offers a broad survey of modern European history,
-from the end of the Thirty Years' War to the aftermath of World War II.
-Along with the consideration of major events and figures such as the
-French Revolution and Napoleon, attention will be paid to the experience
-of ordinary people in times of upheaval and transition. The period will
-thus be viewed neither in terms of historical inevitability nor as a
-procession of great men, but rather through the lens of the complex
-interrelations between demographic change, political revolution, and
-cultural development. Textbook accounts will be accompanied by the study
-of exemplary works of art, literature, and cinema.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL3A8E6CE294860A24">Youtube
-list</a></p></td>
-<td><p><a href="https://oyc.yale.edu/history/hist-202">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Epidemics in Western Society Since 1600</strong></p></td>
-<td><p><a href="Yale_University" title="wikilink">Yale
-University</a></p></td>
-<td><p><a href="Frank_Snowden" title="wikilink">Frank
-Snowden</a></p></td>
-<td><p>English</p></td>
-<td><p>2010.</p></td>
-<td><p>26</p></td>
-<td><p>20h</p></td>
-<td><p>HIST 234</p></td>
-<td><p>This course consists of an international analysis of the impact
-of epidemic diseases on western society and culture from the bubonic
-plague to HIV/AIDS and the recent experience of SARS and swine flu.
-Leading themes include: infectious disease and its impact on society;
-the development of public health measures; the role of medical ethics;
-the genre of plague literature; the social reactions of mass hysteria
-and violence; the rise of the germ theory of disease; the development of
-tropical medicine; a comparison of the social, cultural, and historical
-impact of major infectious diseases; and the issue of emerging and
-re-emerging diseases.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL3AE7B3B6917DE8E6">Youtube
-list</a></p></td>
-<td><p><a href="https://oyc.yale.edu/history/hist-234">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>The American Revolution</strong></p></td>
-<td><p><a href="Yale_University" title="wikilink">Yale
-University</a></p></td>
-<td><p><a href="Joanne_Freeman" title="wikilink">Joanne
-Freeman</a></p></td>
-<td><p>English</p></td>
-<td><p>2010.</p></td>
-<td><p>25</p></td>
-<td><p>18h</p></td>
-<td><p>HIST 116</p></td>
-<td><p>The American Revolution entailed some remarkable
-transformations—converting British colonists into American
-revolutionaries, and a cluster of colonies into a confederation of
-states with a common cause—but it was far more complex and enduring then
-the fighting of a war. As John Adams put it, "The Revolution was in the
-Minds of the people... before a drop of blood was drawn at
-Lexington"—and it continued long past America's victory at Yorktown.
-This course will examine the Revolution from this broad perspective,
-tracing the participants' shifting sense of themselves as British
-subjects, colonial settlers, revolutionaries, and Americans.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLDA2BC5E785D495AB">Youtube
-list</a></p></td>
-<td><p><a href="https://oyc.yale.edu/history/hist-116">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>The Civil War and Reconstruction Era,
-1845-1877</strong></p></td>
-<td><p><a href="Yale_University" title="wikilink">Yale
-University</a></p></td>
-<td><p><a href="David_W._Blight" title="wikilink">David W.
-Blight</a></p></td>
-<td><p>English</p></td>
-<td><p>2008.</p></td>
-<td><p>27</p></td>
-<td><p>22h</p></td>
-<td><p>HIST 119</p></td>
-<td><p>This course explores the causes, course, and consequences of the
-American Civil War, from the 1840s to 1877. The primary goal of the
-course is to understand the multiple meanings of a transforming event in
-American history. Those meanings may be defined in many ways: national,
-sectional, racial, constitutional, individual, social, intellectual, or
-moral. Four broad themes are closely examined: the crisis of union and
-disunion in an expanding republic; slavery, race, and emancipation as
-national problem, personal experience, and social process; the
-experience of modern, total war for individuals and society; and the
-political and social challenges of Reconstruction.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL5DD220D6A1282057">Youtube
-list</a></p></td>
-<td><p><a href="https://oyc.yale.edu/history/hist-119">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>France Since 1871</strong></p></td>
-<td><p><a href="Yale_University" title="wikilink">Yale
-University</a></p></td>
-<td><p><a href="John_M._Merriman" title="wikilink">John
-Merriman</a></p></td>
-<td><p>English</p></td>
-<td><p>2007.</p></td>
-<td><p>24</p></td>
-<td><p>18h</p></td>
-<td><p>HIST 276</p></td>
-<td><p>This course covers the emergence of modern France. Topics include
-the social, economic, and political transformation of France; the impact
-of France's revolutionary heritage, of industrialization, and of the
-dislocation wrought by two world wars; and the political response of the
-Left and the Right to changing French society.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLE653BF062C136B62">Youtube
-list</a></p></td>
-<td><p><a href="https://oyc.yale.edu/history/hist-276">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>African American History: From Emancipation to the
-Present</strong></p></td>
-<td><p><a href="Yale_University" title="wikilink">Yale
-University</a></p></td>
-<td><p><a href="Jonathan_Holloway_(historian)" title="wikilink">Jonathan
-Holloway</a></p></td>
-<td><p>English</p></td>
-<td><p>2010.</p></td>
-<td><p>25</p></td>
-<td><p>20h</p></td>
-<td><p>AFAM 162</p></td>
-<td><p>The purpose of this course is to examine the African American
-experience in the United States from 1863 to the present. Prominent
-themes include the end of the Civil War and the beginning of
-Reconstruction; African Americans’ urbanization experiences; the
-development of the modern civil rights movement and its aftermath; and
-the thought and leadership of Booker T. Washington, Ida B.
-Wells-Barnett, W.E.B. Du Bois, Marcus Garvey, Martin Luther King Jr.,
-and Malcolm X.</p></td>
-<td><p><a
-href="https://oyc.yale.edu/african-american-studies/afam-162/lecture-1">Video</a></p></td>
-<td><p><a
-href="https://oyc.yale.edu/african-american-studies/afam-162/">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>New York City: A Social History</strong></p></td>
-<td><p><a href="New_York_University" title="wikilink">New York
-University</a></p></td>
-<td><p><a href="Daniel_Walkowitz" title="wikilink">Daniel
-Walkowitz</a></p></td>
-<td><p>English</p></td>
-<td><p>2010.</p></td>
-<td><p>26</p></td>
-<td><p>29h</p></td>
-<td></td>
-<td><p>New York City, growing from the small Dutch commercial settlement
-of New Amsterdam early in the seventeenth century into a bustling
-multi-cultural city of more than 7 million and metropolis of more than
-15 million by the twentieth century, is a place with many stories. A
-semester of 14 weeks can only touch on some of them. This course will
-focus on the social history of the city – the peoples who have built the
-city and competing efforts by different numbers to authorize their
-dreams for the city. As arguably the capital for global capitalism
-today, one focus of this course will seek to plot its development and
-legacy for the shaping of the city. A more particular and related local
-story will be studied as well, however: the political and cultural
-interests, ideologies and players who shape and reshape the city as
-Manhattan, as New York and as the Metropolis.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL78E65F2E6C63CD76">Youtube
-list</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>Ancient Israel</strong></p></td>
-<td><p><a href="New_York_University" title="wikilink">New York
-University</a></p></td>
-<td><p><a href="Daniel_E._Fleming" title="wikilink">Daniel
-Fleming</a></p></td>
-<td><p>English</p></td>
-<td><p>2010.</p></td>
-<td><p>27</p></td>
-<td><p>29h</p></td>
-<td></td>
-<td><p>This course is designed to make the acquaintance from scratch. My
-ancient Israel is strange, sometimes shocking, diverse, and mostly
-hidden. It can be approached from archaeology and non-biblical writing
-as well as from the Bible as its most famous artifact. I am a biblical
-scholar and student of ancient literature, so this class will lean
-toward what is written, embracing the Bible as a source. In a broadly
-chronological framework, we will ask what I hope to be unfamiliar
-questions, trying to get you to see things you had not considered
-before. The course assumes no prior knowledge, and all knowledge is
-built from the ground up based on “primary evidence,” the actual
-material from the ancient world – including the Bible. Every full-class
-meeting will involve conversation in response to some piece of primary
-evidence, with expectation that students have as much right as any
-scholar to figure out who these people are for themselves.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL49208CAE353159FA">Youtube
-list</a></p></td>
-<td></td>
-</tr>
-</tbody>
+    <thead>
+        <th>Name</th>
+        <th>Institution</th>
+        <th>Lecturer</th>
+        <th>Language</th>
+        <th>Year</th>
+        <th>Num. of lectures</th>
+        <th>Total duration</th>
+        <th>Code</th>
+        <th>URL 1</th>
+        <th>URL 2</th>
+    </thead>
+    <tr class="odd">
+        <td rowspan="2"><strong>Introduction to Ancient Greek History</strong></td>
+        <td><a href="Yale_University" title="wikilink">Yale University</a></td>
+        <td><a href="Donald_Kagan" title="wikilink">Donald Kagan</a></td>
+        <td>English</td>
+        <td>2007</td>
+        <td>24</td>
+        <td>28h</td>
+        <td>CLCV 205</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL023BCE5134243987">Youtube list</a></td>
+        <td><a href="https://oyc.yale.edu/classics/clcv-205">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">This is an introductory course in Greek history tracing the development of Greek civilization as manifested in political, intellectual, and creative achievements from the Bronze Age to the end of the classical period. Students read original sources in translation as well as the works of modern scholars.</td>
+    </tr>
 </table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Roman Architecture</strong></td>
+        <td><a href="Yale_University" title="wikilink">Yale University</a></td>
+        <td><a href="Diana_E._E._Kleiner" title="wikilink">Diana E. E. Kleiner</a></td>
+        <td>English</td>
+        <td>2009</td>
+        <td>24</td>
+        <td>28h</td>
+        <td>HSAR 252</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLBCB3059E45654BCE">Youtube list</a></td>
+        <td><a href="https://oyc.yale.edu/NODE/176">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">This course is an introduction to the great buildings and engineering marvels of Rome and its empire, with an emphasis on urban planning and individual monuments and their decoration, including mural painting. While architectural developments in Rome, Pompeii, and Central Italy are highlighted, the course also provides a survey of sites and structures in what are now North Italy, Sicily, France, Spain, Germany, Greece, Turkey, Croatia, Jordan, Lebanon, Libya, and North Africa. The lectures are illustrated with over 1,500 images, many from Professor Kleiner's personal collection.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>The Early Middle Ages, 284–1000</strong></td>
+        <td><a href="Yale_University" title="wikilink">Yale University</a></td>
+        <td><a href="Paul_Freedman" title="wikilink">Paul Freedman</a></td>
+        <td>English</td>
+        <td>2011</td>
+        <td>22</td>
+        <td>17h</td>
+        <td>HIST 210</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL77A337915A76F660">Youtube list</a></td>
+        <td><a href="https://oyc.yale.edu/history/hist-210">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">Major developments in the political, social, and religious history of Western Europe from the accession of Diocletian to the feudal transformation. Topics include the conversion of Europe to Christianity, the fall of the Roman Empire, the rise of Islam and the Arabs, the "Dark Ages," Charlemagne and the Carolingian renaissance, and the Viking and Hungarian invasions.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Early Modern England: Politics, Religion, and Society under the Tudors and Stuarts</strong></td>
+        <td><a href="Yale_University" title="wikilink">Yale University</a></td>
+        <td><a href="Keith_E._Wrightson" title="wikilink">Keith E. Wrightson</a></td>
+        <td>English</td>
+        <td>2009</td>
+        <td>25</td>
+        <td>19h</td>
+        <td>HIST 251</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL18B9F132DFD967A3">Youtube list</a></td>
+        <td><a href="https://oyc.yale.edu/history/hist-251">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">This course is intended to provide an up-to-date introduction to the development of English society between the late fifteenth and the early eighteenth centuries. Particular issues addressed in the lectures will include: the changing social structure; households; local communities; gender roles; economic development; urbanization; religious change from the Reformation to the Act of Toleration; the Tudor and Stuart monarchies; rebellion, popular protest and civil war; witchcraft; education, literacy and print culture; crime and the law; poverty and social welfare; the changing structures and dynamics of political participation and the emergence of parliamentary government.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>European Civilization, 1648-1945</strong></td>
+        <td><a href="Yale_University" title="wikilink">Yale University</a></td>
+        <td><a href="John_M._Merriman" title="wikilink">John Merriman</a></td>
+        <td>English</td>
+        <td>2008</td>
+        <td>24</td>
+        <td>18h</td>
+        <td>HIST 202</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL3A8E6CE294860A24">Youtube list</a></td>
+        <td><a href="https://oyc.yale.edu/history/hist-202">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">This course offers a broad survey of modern European history, from the end of the Thirty Years' War to the aftermath of World War II. Along with the consideration of major events and figures such as the French Revolution and Napoleon, attention will be paid to the experience of ordinary people in times of upheaval and transition. The period will thus be viewed neither in terms of historical inevitability nor as a procession of great men, but rather through the lens of the complex interrelations between demographic change, political revolution, and cultural development. Textbook accounts will be accompanied by the study of exemplary works of art, literature, and cinema.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Epidemics in Western Society Since 1600</strong></td>
+        <td><a href="Yale_University" title="wikilink">Yale University</a></td>
+        <td><a href="Frank_Snowden" title="wikilink">Frank Snowden</a></td>
+        <td>English</td>
+        <td>2010</td>
+        <td>26</td>
+        <td>20h</td>
+        <td>HIST 234</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL3AE7B3B6917DE8E6">Youtube list</a></td>
+        <td><a href="https://oyc.yale.edu/history/hist-234">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">This course consists of an international analysis of the impact of epidemic diseases on western society and culture from the bubonic plague to HIV/AIDS and the recent experience of SARS and swine flu. Leading themes include: infectious disease and its impact on society; the development of public health measures; the role of medical ethics; the genre of plague literature; the social reactions of mass hysteria and violence; the rise of the germ theory of disease; the development of tropical medicine; a comparison of the social, cultural, and historical impact of major infectious diseases; and the issue of emerging and re-emerging diseases.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>The American Revolution</strong></td>
+        <td><a href="Yale_University" title="wikilink">Yale University</a></td>
+        <td><a href="Joanne_Freeman" title="wikilink">Joanne Freeman</a></td>
+        <td>English</td>
+        <td>2010</td>
+        <td>25</td>
+        <td>18h</td>
+        <td>HIST 116</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLDA2BC5E785D495AB">Youtube list</a></td>
+        <td><a href="https://oyc.yale.edu/history/hist-116">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">The American Revolution entailed some remarkable transformations—converting British colonists into American revolutionaries, and a cluster of colonies into a confederation of states with a common cause—but it was far more complex and enduring then the fighting of a war. As John Adams put it, "The Revolution was in the Minds of the people... before a drop of blood was drawn at Lexington"—and it continued long past America's victory at Yorktown. This course will examine the Revolution from this broad perspective, tracing the participants' shifting sense of themselves as British subjects, colonial settlers, revolutionaries, and Americans.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>The Civil War and Reconstruction Era, 1845-1877</strong></td>
+        <td><a href="Yale_University" title="wikilink">Yale University</a></td>
+        <td><a href="David_W._Blight" title="wikilink">David W. Blight</a></td>
+        <td>English</td>
+        <td>2008</td>
+        <td>27</td>
+        <td>22h</td>
+        <td>HIST 119</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL5DD220D6A1282057">Youtube list</a></td>
+        <td><a href="https://oyc.yale.edu/history/hist-119">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">This course explores the causes, course, and consequences of the American Civil War, from the 1840s to 1877. The primary goal of the course is to understand the multiple meanings of a transforming event in American history. Those meanings may be defined in many ways: national, sectional, racial, constitutional, individual, social, intellectual, or moral. Four broad themes are closely examined: the crisis of union and disunion in an expanding republic; slavery, race, and emancipation as national problem, personal experience, and social process; the experience of modern, total war for individuals and society; and the political and social challenges of Reconstruction.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>France Since 1871</strong></td>
+        <td><a href="Yale_University" title="wikilink">Yale University</a></td>
+        <td><a href="John_M._Merriman" title="wikilink">John Merriman</a></td>
+        <td>English</td>
+        <td>2007</td>
+        <td>24</td>
+        <td>18h</td>
+        <td>HIST 276</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLE653BF062C136B62">Youtube list</a></td>
+        <td><a href="https://oyc.yale.edu/history/hist-276">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">This course covers the emergence of modern France. Topics include the social, economic, and political transformation of France; the impact of France's revolutionary heritage, of industrialization, and of the dislocation wrought by two world wars; and the political response of the Left and the Right to changing French society.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>African American History: From Emancipation to the Present</strong></td>
+        <td><a href="Yale_University" title="wikilink">Yale University</a></td>
+        <td><a href="Jonathan_Holloway_(historian)" title="wikilink">Jonathan Holloway</a></td>
+        <td>English</td>
+        <td>2010</td>
+        <td>25</td>
+        <td>20h</td>
+        <td>AFAM 162</td>
+        <td><a href="https://oyc.yale.edu/african-american-studies/afam-162/lecture-1">Videos</a></td>
+        <td><a href="https://oyc.yale.edu/african-american-studies/afam-162/">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">The purpose of this course is to examine the African American experience in the United States from 1863 to the present. Prominent themes include the end of the Civil War and the beginning of Reconstruction; African Americans’ urbanization experiences; the development of the modern civil rights movement and its aftermath; and the thought and leadership of Booker T. Washington, Ida B. Wells-Barnett, W.E.B. Du Bois, Marcus Garvey, Martin Luther King Jr., and Malcolm X.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>New York City: A Social History</strong></td>
+        <td><a href="New_York_University" title="wikilink">New York University</a></td>
+        <td><a href="Daniel_Walkowitz" title="wikilink">Daniel Walkowitz</a></td>
+        <td>English</td>
+        <td>2010</td>
+        <td>26</td>
+        <td>29h</td>
+        <td></td>
+        <td><a href="https://www.youtube.com/playlist?list=PL78E65F2E6C63CD76">Youtube list</a></td>
+        <td></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">New York City, growing from the small Dutch commercial settlement of New Amsterdam early in the seventeenth century into a bustling multi-cultural city of more than 7 million and metropolis of more than 15 million by the twentieth century, is a place with many stories. This course will focus on the social history of the city – the peoples who have built the city and competing efforts by different numbers to authorize their dreams for the city. As arguably the capital for global capitalism today, one focus of this course will seek to plot its development and legacy for the shaping of the city. A more particular and related local story will be studied as well, however: the political and cultural interests, ideologies and players who shape and reshape the city as Manhattan, as New York and as the Metropolis.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Ancient Israel</strong></td>
+        <td><a href="New_York_University" title="wikilink">New York University</a></td>
+        <td><a href="Daniel_E._Fleming" title="wikilink">Daniel Fleming</a></td>
+        <td>English</td>
+        <td>2010</td>
+        <td>27</td>
+        <td>29h</td>
+        <td></td>
+        <td><a href="https://www.youtube.com/playlist?list=PL49208CAE353159FA">Youtube list</a></td>
+        <td></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">This course is designed to make the acquaintance from scratch. My ancient Israel is strange, sometimes shocking, diverse, and mostly hidden. It can be approached from archaeology and non-biblical writing as well as from the Bible as its most famous artifact. I am a biblical scholar and student of ancient literature, so this class will lean toward what is written, embracing the Bible as a source. In a broadly chronological framework, we will ask what I hope to be unfamiliar questions, trying to get you to see things you had not considered before. The course assumes no prior knowledge, and all knowledge is built from the ground up based on “primary evidence,” the actual material from the ancient world – including the Bible. Every full-class meeting will involve conversation in response to some piece of primary evidence, with expectation that students have as much right as any scholar to figure out who these people are for themselves.</td>
+    </tr>
+</table>
+
 
 ## Mathematics
 
