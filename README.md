@@ -1739,151 +1739,105 @@ duration</p></th>
 ## Psychology
 
 <table>
-<thead>
-<tr class="header">
-<th><p>Name</p></th>
-<th><p>Institution</p></th>
-<th><p>Lecturer</p></th>
-<th><p>Language</p></th>
-<th><p>Year</p></th>
-<th><p>Num. of<br />
-lectures</p></th>
-<th><p>Total<br />
-duration</p></th>
-<th><p>Code</p></th>
-<th><p>Course description</p></th>
-<th><p>URL 1</p></th>
-<th><p>URL 2</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><strong>Introduction to Psychology</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="John_Gabrieli" title="wikilink">John
-Gabrieli</a></p></td>
-<td><p>English</p></td>
-<td><p>2011.</p></td>
-<td><p>24</p></td>
-<td><p>23h</p></td>
-<td><p>9.00SC</p></td>
-<td><p>Introduction to Psychology is a survey of the scientific study of
-human nature, including how the mind works, and how the brain supports
-the mind. Topics include the mental and neural bases of perception,
-emotion, learning, memory, cognition, child development, personality,
-psychopathology, and social interaction.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL44ABC9278E2EE706">Youtube
-list</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>Introduction to Psychology</strong></p></td>
-<td><p><a href="Yale_University" title="wikilink">Yale
-University</a></p></td>
-<td><p><a href="Paul_Bloom_(psychologist)" title="wikilink">Paul
-Bloom</a></p></td>
-<td><p>English</p></td>
-<td><p>2007.</p></td>
-<td><p>20</p></td>
-<td><p>18h</p></td>
-<td><p>PSYC 110</p></td>
-<td><p>What do your dreams mean? Do men and women differ in the nature
-and intensity of their sexual desires? Can apes learn sign language? Why
-cant we tickle ourselves? This course tries to answer these questions
-and many others, providing a comprehensive overview of the scientific
-study of thought and behavior. It explores topics such as perception,
-communication, learning, memory, decision-making, religion, persuasion,
-love, lust, hunger, art, fiction, and dreams. We will look at how these
-aspects of the mind develop in children, how they differ across people,
-how they are wired-up in the brain, and how they break down due to
-illness and injury.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL6A08EB4EEFF3E91F">Youtube
-list</a></p></td>
-<td><p><a
-href="https://oyc.yale.edu/introduction-psychology/psyc-110">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Reflective Practice: An Approach for Expanding Your
-Learning Frontiers</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Ceasar_McDowell" title="wikilink">Ceasar McDowell</a>,
-<a href="Claudia_Canepa" title="wikilink">Claudia Canepa</a>, <a
-href="Sebastiao_Ferriera" title="wikilink">Sebastiao
-Ferriera</a></p></td>
-<td><p>English</p></td>
-<td><p>2007.</p></td>
-<td><p>10</p></td>
-<td><p>24h</p></td>
-<td></td>
-<td><p>The course is an introduction to the approach of Reflective
-Practice developed by Donald Schön. It is an approach that enables
-professionals to understand how they use their knowledge in practical
-situations and how they can combine practice and learning in a more
-effective way. Through greater awareness of how they deploy their
-knowledge in practical situations, professionals can increase their
-capacities of learning in a more timely way. Understanding how they
-frame situations and ideas helps professionals to achieve greater
-flexibility and increase their capacity of conceptual
-innovation.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL773D0AF1A86E4E58">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/urban-studies-and-planning/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Families and Couples: Psychology</strong></p></td>
-<td><p><a href="UCLA" title="wikilink">UCLA</a></p></td>
-<td><p><a href="Benjamin_Karney" title="wikilink">Benjamin
-Karney</a></p></td>
-<td><p>English</p></td>
-<td><p>2009.</p></td>
-<td><p>18</p></td>
-<td><p>20h</p></td>
-<td><p>M176</p></td>
-<td><p>Professor Benjamin Karney lectures on families and couples. This
-course examines relationships and their connection to individual
-psychopathology, marital discord, and family disruption.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLA1DA9D11E15C116D">Youtube
-list</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>The Psychology, Biology and Politics of
-Food</strong></p></td>
-<td><p><a href="Yale_University" title="wikilink">Yale
-University</a></p></td>
-<td><p><a href="Kelly_D._Brownell" title="wikilink">Kelly D.
-Brownell</a></p></td>
-<td><p>English</p></td>
-<td><p>2008.</p></td>
-<td><p>20</p></td>
-<td><p>20h</p></td>
-<td><p>PSYC 123</p></td>
-<td><p>This course encompasses the study of eating as it affects the
-health and well-being of every human. Topics include taste preferences,
-food aversions, the regulation of hunger and satiety, food as comfort
-and friendship, eating as social ritual, and social norms of blame for
-food problems. The politics of food discusses issues such as sustainable
-agriculture, organic farming, genetically modified foods, nutrition
-policy, and the influence of food and agriculture industries. Also
-examined are problems such as malnutrition, eating disorders, and the
-global obesity epidemic; the impact of food advertising aimed at
-children; poverty and food; and how each individual's eating is affected
-by the modern environment.</p></td>
-<td><p><a
-href="https://oyc.yale.edu/psychology/psyc-123/lecture-1">Video</a></p></td>
-<td><p><a href="https://oyc.yale.edu/psychology/psyc-123">Web
-page</a></p></td>
-</tr>
-</tbody>
+    <thead>
+        <th>Name</th>
+        <th>Institution</th>
+        <th>Lecturer</th>
+        <th>Language</th>
+        <th>Year</th>
+        <th>Num. of lectures</th>
+        <th>Total duration</th>
+        <th>Code</th>
+        <th>URL 1</th>
+        <th>URL 2</th>
+    </thead>
+    <tr class="odd">
+        <td rowspan="2"><strong>Introduction to Psychology</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="John_Gabrieli" title="wikilink">John Gabrieli</a></td>
+        <td>English</td>
+        <td>2011</td>
+        <td>24</td>
+        <td>23h</td>
+        <td>9.00SC</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL44ABC9278E2EE706">Youtube list</a></td>
+        <td></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">Survey of the scientific study of human nature, including how the mind works, and how the brain supports the mind. Topics: mental and neural bases of perception, emotion, learning, memory, cognition, child development, personality, psychopathology, and social interaction.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Introduction to Psychology</strong></td>
+        <td><a href="Yale_University" title="wikilink">Yale University</a></td>
+        <td><a href="Paul_Bloom_(psychologist)" title="wikilink">Paul Bloom</a></td>
+        <td>English</td>
+        <td>2007</td>
+        <td>20</td>
+        <td>18h</td>
+        <td>PSYC 110</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL6A08EB4EEFF3E91F">Youtube list</a></td>
+        <td><a href="https://oyc.yale.edu/introduction-psychology/psyc-110">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">Comprehensive overview of the scientific study of thought and behavior. Topics: perception, communication, learning, memory, decision-making, religion, persuasion, love, lust, hunger, art, fiction, dreams. Development in children, differences across people, neural basis.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>Reflective Practice: An Approach for Expanding Your Learning Frontiers</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="Ceasar_McDowell" title="wikilink">Ceasar McDowell</a>, <a href="Claudia_Canepa" title="wikilink">Claudia Canepa</a>, <a href="Sebastiao_Ferriera" title="wikilink">Sebastiao Ferriera</a></td>
+        <td>English</td>
+        <td>2007</td>
+        <td>10</td>
+        <td>24h</td>
+        <td></td>
+        <td><a href="https://www.youtube.com/playlist?list=PL773D0AF1A86E4E58">Youtube list</a></td>
+        <td><a href="https://ocw.mit.edu/courses/urban-studies-and-planning/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">An introduction to Donald Schön's Reflective Practice, enabling professionals to understand how they use their knowledge in practical situations and combine practice and learning effectively.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Families and Couples: Psychology</strong></td>
+        <td><a href="UCLA" title="wikilink">UCLA</a></td>
+        <td><a href="Benjamin_Karney" title="wikilink">Benjamin Karney</a></td>
+        <td>English</td>
+        <td>2009</td>
+        <td>18</td>
+        <td>20h</td>
+        <td>M176</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLA1DA9D11E15C116D">Youtube list</a></td>
+        <td></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">Lectures on families and couples, examining relationships and their connection to individual psychopathology, marital discord, and family disruption.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>The Psychology, Biology and Politics of Food</strong></td>
+        <td><a href="Yale_University" title="wikilink">Yale University</a></td>
+        <td><a href="Kelly_D._Brownell" title="wikilink">Kelly D. Brownell</a></td>
+        <td>English</td>
+        <td>2008</td>
+        <td>20</td>
+        <td>20h</td>
+        <td>PSYC 123</td>
+        <td><a href="https://oyc.yale.edu/psychology/psyc-123/lecture-1">Videos</a></td>
+        <td><a href="https://oyc.yale.edu/psychology/psyc-123">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">A study of eating, its influence on health and well-being, and various related topics including food preferences, food aversions, hunger, satiety, dieting, obesity, food advertising, and food politics.</td>
+    </tr>
 </table>
 
 ## Unsorted
