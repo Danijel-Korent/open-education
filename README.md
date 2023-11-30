@@ -1843,267 +1843,175 @@ duration</p></th>
 ## Unsorted
 
 <table>
-<thead>
-<tr class="header">
-<th><p>Name</p></th>
-<th><p>Institution</p></th>
-<th><p>Lecturer</p></th>
-<th><p>Language</p></th>
-<th><p>Year</p></th>
-<th><p>Num. of<br />
-lectures</p></th>
-<th><p>Total<br />
-duration</p></th>
-<th><p>Code</p></th>
-<th><p>Course description</p></th>
-<th><p>URL 1</p></th>
-<th><p>URL 2</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><strong>Poverty Action Lab Executive Training: Evaluating Social
-Programs</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Rachel_Glennerster" title="wikilink">Rachel
-Glennerster</a>, <a href="Abhijit_Banerjee" title="wikilink">Abhijit
-Banerjee</a>, <a href="Esther_Duflo" title="wikilink">Esther
-Duflo</a></p></td>
-<td><p>English</p></td>
-<td><p>2009.</p></td>
-<td><p>8</p></td>
-<td><p>12h</p></td>
-<td><p>RES.14-001</p></td>
-<td><p>This five-day program on evaluating social programs will provide
-a thorough understanding of randomized evaluations and pragmatic
-step-by-step training for conducting one's own evaluation. While the
-course focuses on randomized evaluations, many of the topics, such as
-measuring outcomes and dealing with threats to the validity of an
-evaluation, are relevant for other methodologies.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLFDDC7E64FF1EE996">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/resources/res-14-001-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2009-spring-2009/">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Global Problems of Population Growth</strong></p></td>
-<td><p><a href="Yale_University" title="wikilink">Yale
-University</a></p></td>
-<td><p><a href="Robert_Wyman" title="wikilink">Robert Wyman</a></p></td>
-<td><p>English</p></td>
-<td><p>2009.</p></td>
-<td><p>24</p></td>
-<td><p>27h</p></td>
-<td><p>MCDB 150</p></td>
-<td><p>This survey course introduces students to the important and basic
-material on human fertility, population growth, the demographic
-transition and population policy. Topics include: the human and
-environmental dimensions of population pressure, demographic history,
-economic and cultural causes of demographic change, environmental
-carrying capacity and sustainability. Political, religious and ethical
-issues surrounding fertility are also addressed. The lectures and
-readings attempt to balance theoretical and demographic scale analyzes
-with studies of individual humans and communities. The perspective is
-global with both developed and developing countries included.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLE60A08636F41C128">Youtube
-list</a></p></td>
-<td><p><a
-href="https://oyc.yale.edu/molecular-cellular-and-developmental-biology/mcdb-150">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Foundations of Modern Social Theory</strong></p></td>
-<td><p><a href="Yale_University" title="wikilink">Yale
-University</a></p></td>
-<td><p><a href="Iván_Szelényi" title="wikilink">Iván
-Szelényi</a></p></td>
-<td><p>English</p></td>
-<td><p>2009.</p></td>
-<td><p>25</p></td>
-<td><p>20h</p></td>
-<td><p>SOCY 151</p></td>
-<td><p>This course provides an overview of major works of social thought
-from the beginning of the modern era through the 1920s. Attention is
-paid to social and intellectual contexts, conceptual frameworks and
-methods, and contributions to contemporary social analysis. Writers
-include Hobbes, Locke, Rousseau, Montesquieu, Adam Smith, Marx, Weber,
-and Durkheim.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLDF7B08FF8564D1FE">Youtube
-list</a></p></td>
-<td><p><a href="https://oyc.yale.edu/sociology/socy-151">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Aircraft Systems Engineering (study of Space
-Shuttle)</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Jeffrey_Hoffman" title="wikilink">Jeffrey
-Hoffman</a></p></td>
-<td><p>English</p></td>
-<td><p>2005.</p></td>
-<td><p>23</p></td>
-<td><p>40h</p></td>
-<td><p>16.885J / ESD.35J</p></td>
-<td><p>16.885J offers a holistic view of the aircraft as a system,
-covering: basic systems engineering; cost and weight estimation; basic
-aircraft performance; safety and reliability; lifecycle topics; aircraft
-subsystems; risk analysis and management; and system realization. Small
-student teams retrospectively analyze an existing aircraft covering: key
-design drivers and decisions; aircraft attributes and subsystems; and
-operational experience. Oral and written versions of the case study are
-delivered. For the Fall 2005 term, the class focuses on a systems
-engineering analysis of the Space Shuttle. It offers study of both
-design and operations of the shuttle, with frequent lectures by outside
-experts. Students choose specific shuttle systems for detailed analysis
-and develop new subsystem designs using state of the art
-technology.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL35721A60B7B57386">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-885j-aircraft-systems-engineering-fall-2005/">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Control of Manufacturing Processes</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="David_Hardt" title="wikilink">David Hardt</a>, <a
-href="Duane_Boning" title="wikilink">Duane Boning</a></p></td>
-<td><p>English</p></td>
-<td><p>2008.</p></td>
-<td><p>22</p></td>
-<td><p>30h</p></td>
-<td><p>2.830J / 6.780J / ESD.63J</p></td>
-<td><p>This course explores statistical modeling and control in
-manufacturing processes. Topics include the use of experimental design
-and response surface modeling to understand manufacturing process
-physics, as well as defect and parametric yield modeling and
-optimization. Various forms of process control, including statistical
-process control, run by run and adaptive control, and real-time feedback
-control, are covered. Application contexts include semiconductor
-manufacturing, conventional metal and polymer processing, and emerging
-micro-nano manufacturing processes.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL7CF97E01FDE7C51A">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/mechanical-engineering/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Atomistic Computer Modeling of
-Materials</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Gerbrand_Ceder" title="wikilink">Gerbrand Ceder</a>, <a
-href="Nicola_Marzari" title="wikilink">Nicola Marzari</a></p></td>
-<td><p>English</p></td>
-<td><p>2005.</p></td>
-<td><p>19</p></td>
-<td><p>25h</p></td>
-<td><p>3.320</p></td>
-<td><p>This course uses the theory and application of atomistic computer
-simulations to model, understand, and predict the properties of real
-materials. Specific topics include: energy models from classical
-potentials to first-principles approaches; density functional theory and
-the total-energy pseudopotential method; errors and accuracy of
-quantitative predictions: thermodynamic ensembles, Monte Carlo sampling
-and molecular dynamics simulations; free energy and phase transitions;
-fluctuations and transport properties; and coarse-graining approaches
-and mesoscale models. The course employs case studies from industrial
-applications of advanced materials to nanotechnology. Several
-laboratories will give students direct experience with simulations of
-classical force fields, electronic-structure approaches, molecular
-dynamics, and Monte Carlo.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL13CB8C2EDA4453ED">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/materials-science-and-engineering/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Health Information Systems</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Leo_Celi" title="wikilink">Leo Celi</a>, <a
-href="Hamish_Fraser" title="wikilink">Hamish Fraser</a>, <a
-href="Peter_Szolovits" title="wikilink">Peter Szolovits</a>, <a
-href="Ken_Paik" title="wikilink">Ken Paik</a></p></td>
-<td><p>English</p></td>
-<td><p>2012.</p></td>
-<td><p>12</p></td>
-<td><p>12h</p></td>
-<td><p>HST.S14</p></td>
-<td><p>The goal of this course is the development of innovations in
-information systems for developing countries that will (1) translate
-into improvement in health outcomes, (2) strengthen the existing
-organizational infrastructure, and (3) create a collaborative ecosystem
-to maximize the value of these innovations. The course will be taught by
-guest speakers who are internationally recognized experts in the field
-and who, with their operational experiences, will outline the challenges
-they faced and detail how these were addressed.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62lAvsV9K1PMR_J-Ag5vVOm">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/health-sciences-and-technology/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Nuclear Systems Design Project</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Michael_Short_(professor)" title="wikilink">Michael
-Short</a></p></td>
-<td><p>English</p></td>
-<td><p>2011.</p></td>
-<td><p>10</p></td>
-<td><p>8h</p></td>
-<td><p>22.033 / 22.33</p></td>
-<td><p>In this capstone design project course, students design a nuclear
-reactor that generates electricity, hydrogen and biofuels. Lectures
-introduce each major subsystem and explore design methods, and are
-followed by mid-term and final student presentations.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL3C69700955EB813B">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/nuclear-engineering/22-033-nuclear-systems-design-project-fall-2011/">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Nuclear Reactor Safety</strong></p></td>
-<td><p><a href="Massachusetts_Institute_of_Technology"
-title="wikilink">MIT</a></p></td>
-<td><p><a href="Andrew_Kadak" title="wikilink">Andrew Kadak</a></p></td>
-<td><p>English</p></td>
-<td><p>2008.</p></td>
-<td><p>6</p></td>
-<td><p>7h</p></td>
-<td><p>22.091 / 22.903</p></td>
-<td><p>Problems in nuclear engineering often involve applying knowledge
-from many disciplines simultaneously in achieving satisfactory
-solutions. The course will focus on understanding the complete nuclear
-reactor system including the balance of plant, support systems and
-resulting interdependencies affecting the overall safety of the plant
-and regulatory oversight. Both the Seabrook and Pilgrim nuclear plant
-simulators will be used as part of the educational experience to provide
-as realistic as possible understanding of nuclear power systems short of
-being at the reactor.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL9F849721A3694121">Youtube
-list</a></p></td>
-<td><p><a
-href="https://ocw.mit.edu/courses/nuclear-engineering/22-091-nuclear-reactor-safety-spring-2008/">Web
-page</a></p></td>
-</tr>
-</tbody>
+    <thead>
+        <th>Name</th>
+        <th>Institution</th>
+        <th>Lecturer</th>
+        <th>Language</th>
+        <th>Year</th>
+        <th>Num. of lectures</th>
+        <th>Total duration</th>
+        <th>Code</th>
+        <th>URL 1</th>
+        <th>URL 2</th>
+    </thead>
+    <tr class="odd">
+        <td rowspan="2"><strong>Poverty Action Lab Executive Training: Evaluating Social Programs</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="Rachel_Glennerster" title="wikilink">Rachel Glennerster</a>, <a href="Abhijit_Banerjee" title="wikilink">Abhijit Banerjee</a>, <a href="Esther_Duflo" title="wikilink">Esther Duflo</a></td>
+        <td>English</td>
+        <td>2009</td>
+        <td>8</td>
+        <td>12h</td>
+        <td>RES.14-001</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLFDDC7E64FF1EE996">Youtube list</a></td>
+        <td><a href="https://ocw.mit.edu/resources/res-14-001-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2009-spring-2009/">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">Five-day program providing a thorough understanding of randomized evaluations with practical training for conducting evaluations. Focuses on randomized evaluations, relevant for other methodologies.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Global Problems of Population Growth</strong></td>
+        <td><a href="Yale_University" title="wikilink">Yale University</a></td>
+        <td><a href="Robert_Wyman" title="wikilink">Robert Wyman</a></td>
+        <td>English</td>
+        <td>2009</td>
+        <td>24</td>
+        <td>27h</td>
+        <td>MCDB 150</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLE60A08636F41C128">Youtube list</a></td>
+        <td><a href="https://oyc.yale.edu/molecular-cellular-and-developmental-biology/mcdb-150">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">Survey course on human fertility, population growth, demographic transition, and population policy. Topics: demographic history, environmental sustainability, political, religious, and ethical issues surrounding fertility.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>Foundations of Modern Social Theory</strong></td>
+        <td><a href="Yale_University" title="wikilink">Yale University</a></td>
+        <td><a href="Iván_Szelényi" title="wikilink">Iván Szelényi</a></td>
+        <td>English</td>
+        <td>2009</td>
+        <td>25</td>
+        <td>20h</td>
+        <td>SOCY 151</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLDF7B08FF8564D1FE">Youtube list</a></td>
+        <td><a href="https://oyc.yale.edu/sociology/socy-151">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">Overview of major works of social thought from the beginning of the modern era through the 1920s. Writers include Hobbes, Locke, Rousseau, Montesquieu, Adam Smith, Marx, Weber, and Durkheim.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Aircraft Systems Engineering (study of Space Shuttle)</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="Jeffrey_Hoffman" title="wikilink">Jeffrey Hoffman</a></td>
+        <td>English</td>
+        <td>2005</td>
+        <td>23</td>
+        <td>40h</td>
+        <td>16.885J / ESD.35J</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL35721A60B7B57386">Youtube list</a></td>
+        <td><a href="https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-885j-aircraft-systems-engineering-fall-2005/">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">Course covers systems engineering analysis of the Space Shuttle. Topics: design, operations, lectures by experts, detailed subsystem analysis, and state-of-the-art technology application.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>Control of Manufacturing Processes</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="David_Hardt" title="wikilink">David Hardt</a>, <a href="Duane_Boning" title="wikilink">Duane Boning</a></td>
+        <td>English</td>
+        <td>2008</td>
+        <td>22</td>
+        <td>30h</td>
+        <td>2.830J / 6.780J / ESD.63J</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL7CF97E01FDE7C51A">Youtube list</a></td>
+        <td><a href="https://ocw.mit.edu/courses/mechanical-engineering/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">Course explores statistical modeling and control in manufacturing processes. Topics: experimental design, response surface modeling, defect and yield modeling, process control, and optimization.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Atomistic Computer Modeling of Materials</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="Gerbrand_Ceder" title="wikilink">Gerbrand Ceder</a>, <a href="Nicola_Marzari" title="wikilink">Nicola Marzari</a></td>
+        <td>English</td>
+        <td>2005</td>
+        <td>19</td>
+        <td>25h</td>
+        <td>3.320</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL13CB8C2EDA4453ED">Youtube list</a></td>
+        <td><a href="https://ocw.mit.edu/courses/materials-science-and-engineering/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">Course on theory and application of atomistic computer simulations to model and predict properties of materials. Covers energy models, density functional theory, thermodynamics, and mesoscale models with case studies and laboratories.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>Health Information Systems</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="Leo_Celi" title="wikilink">Leo Celi</a>, <a href="Hamish_Fraser" title="wikilink">Hamish Fraser</a>, <a href="Peter_Szolovits" title="wikilink">Peter Szolovits</a>, <a href="Ken_Paik" title="wikilink">Ken Paik</a></td>
+        <td>English</td>
+        <td>2012</td>
+        <td>12</td>
+        <td>12h</td>
+        <td>HST.S14</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62lAvsV9K1PMR_J-Ag5vVOm">Youtube list</a></td>
+        <td><a href="https://ocw.mit.edu/courses/health-sciences-and-technology/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">Course aims to develop innovations in information systems for improving health outcomes and strengthening organizational infrastructure. Taught by experts, it addresses challenges in health information systems in developing countries.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Nuclear Systems Design Project</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="Michael_Short_(professor)" title="wikilink">Michael Short</a></td>
+        <td>English</td>
+        <td>2011</td>
+        <td>10</td>
+        <td>8h</td>
+        <td>22.033 / 22.33</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL3C69700955EB813B">Youtube list</a></td>
+        <td><a href="https://ocw.mit.edu/courses/nuclear-engineering/22-033-nuclear-systems-design-project-fall-2011/">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">Capstone design project course for students to design a nuclear reactor. Covers design methods, subsystems, student presentations, and focuses on understanding complete nuclear reactor system and interdependencies.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>Nuclear Reactor Safety</strong></td>
+        <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
+        <td><a href="Andrew_Kadak" title="wikilink">Andrew Kadak</a></td>
+        <td>English</td>
+        <td>2008</td>
+        <td>6</td>
+        <td>7h</td>
+        <td>22.091 / 22.903</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL9F849721A3694121">Youtube list</a></td>
+        <td><a href="https://ocw.mit.edu/courses/nuclear-engineering/22-091-nuclear-reactor-safety-spring-2008/">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">Course focuses on nuclear engineering problems, understanding nuclear reactor system, safety, regulatory oversight, and use of Seabrook and Pilgrim nuclear plant simulators for educational experience.</td>
+    </tr>
 </table>
