@@ -1634,151 +1634,106 @@ duration</p></th>
 </table>
 
 ## Political science
+<table>
+    <thead>
+        <th>Name</th>
+        <th>Institution</th>
+        <th>Lecturer</th>
+        <th>Language</th>
+        <th>Year</th>
+        <th>Num. of lectures</th>
+        <th>Total duration</th>
+        <th>Code</th>
+        <th>URL 1</th>
+        <th>URL 2</th>
+    </thead>
+    <tr class="odd">
+        <td rowspan="2"><strong>Introduction to Political Philosophy</strong></td>
+        <td><a href="Yale_University" title="wikilink">Yale University</a></td>
+        <td><a href="Steven_B._Smith_(professor)" title="wikilink">Steven B. Smith</a></td>
+        <td>English</td>
+        <td>2006</td>
+        <td>24</td>
+        <td>17h</td>
+        <td>PLSC 114</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL8D95DEA9B7DFE825">Youtube list</a></td>
+        <td><a href="https://oyc.yale.edu/political-science/plsc-114">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">An introductory course exploring major texts and thinkers of Western political philosophy, focusing on themes like the polis experience, the sovereign state, constitutional government, and democracy.</td>
+    </tr>
+</table>
 
 <table>
-<thead>
-<tr class="header">
-<th><p>Name</p></th>
-<th><p>Institution</p></th>
-<th><p>Lecturer</p></th>
-<th><p>Language</p></th>
-<th><p>Year</p></th>
-<th><p>Num. of<br />
-lectures</p></th>
-<th><p>Total<br />
-duration</p></th>
-<th><p>Code</p></th>
-<th><p>Course description</p></th>
-<th><p>URL 1</p></th>
-<th><p>URL 2</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><strong>Introduction to Political Philosophy</strong></p></td>
-<td><p><a href="Yale_University" title="wikilink">Yale
-University</a></p></td>
-<td><p><a href="Steven_B._Smith_(professor)" title="wikilink">Steven B.
-Smith</a></p></td>
-<td><p>English</p></td>
-<td><p>2006.</p></td>
-<td><p>24</p></td>
-<td><p>17h</p></td>
-<td><p>PLSC 114</p></td>
-<td><p>This course is intended as an introduction to political
-philosophy as seen through an examination of some of the major texts and
-thinkers of the Western political tradition. Three broad themes that are
-central to understanding political life are focused upon: the polis
-experience (Plato, Aristotle), the sovereign state (Machiavelli,
-Hobbes), constitutional government (Locke), and democracy (Rousseau,
-Tocqueville). The way in which different political philosophies have
-given expression to various forms of political institutions and our ways
-of life are examined throughout the course.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL8D95DEA9B7DFE825">Youtube
-list</a></p></td>
-<td><p><a href="https://oyc.yale.edu/political-science/plsc-114">Web
-page</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>The Moral Foundations of Politics</strong></p></td>
-<td><p><a href="Yale_University" title="wikilink">Yale
-University</a></p></td>
-<td><p><a href="Ian_Shapiro" title="wikilink">Ian Shapiro</a></p></td>
-<td><p>English</p></td>
-<td><p>2010.</p></td>
-<td><p>25</p></td>
-<td><p>20h</p></td>
-<td><p>PLSC 118</p></td>
-<td><p>This course explores main answers to the question "when do
-governments deserve our allegiance?" It starts with a survey of major
-political theories of the Enlightenment—Utilitarianism, Marxism, and the
-social contract tradition—through classical formulations, historical
-context, and contemporary debates relating to politics today. It then
-turns to the rejection of Enlightenment political thinking. Lastly, it
-deals with the nature of, and justifications for, democratic politics,
-and their relations to Enlightenment and Anti-Enlightenment political
-thinking. Practical implications of these arguments are covered through
-discussion of a variety of concrete problems.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL2FD48CE33DFBEA7E">Youtube
-list</a></p></td>
-<td><p><a
-href="https://oyc.yale.edu/political-science/plsc-118/lecture-1">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Political Science 30: Politics and
-Strategy</strong></p></td>
-<td><p><a href="UCLA" title="wikilink">UCLA</a></p></td>
-<td><p><a href="Kathleen_Bawn" title="wikilink">Kathleen
-Bawn</a></p></td>
-<td><p>English</p></td>
-<td><p>2008.</p></td>
-<td><p>19</p></td>
-<td><p>21h</p></td>
-<td><p>POL SCI 30</p></td>
-<td><p>Taught by UCLA's Professor Kathleen Bawn, this courses is an
-introduction to study of strategic interaction in political
-applications. Use of game theory and other formal modeling strategies to
-understand politics are also studied in order to gain a better
-understanding of politics at large.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PLF420ADB3E328425A">Youtube
-list</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>Capitalism: Success, Crisis, and Reform</strong></p></td>
-<td><p><a href="Yale_University" title="wikilink">Yale
-University</a></p></td>
-<td><p><a href="Douglas_W._Rae" title="wikilink">Douglas W.
-Rae</a></p></td>
-<td><p>English</p></td>
-<td><p>2009.</p></td>
-<td><p>23</p></td>
-<td><p>18h</p></td>
-<td><p>PLSC 270</p></td>
-<td><p>In this course, we will seek to interpret capitalism using ideas
-from biological evolution: firms pursuing varied strategies and facing
-extinction when those strategies fail are analogous to organisms
-struggling for survival in nature. For this reason, it is less concerned
-with ultimate judgment of capitalism than with the ways it can be shaped
-to fit our more specific objectives–for the natural environment, public
-health, alleviation of poverty, and development of human potential in
-every child. Each book we read will be explicitly or implicitly an
-argument about good and bad consequences of capitalism.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL2497FD1251EED4DD">Youtube
-list</a></p></td>
-<td><p><a href="https://oyc.yale.edu/political-science/plsc-270">Web
-page</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Environmental Politics and Law</strong></p></td>
-<td><p><a href="Yale_University" title="wikilink">Yale
-University</a></p></td>
-<td><p><a href="John_Wargo" title="wikilink">John Wargo</a></p></td>
-<td><p>English</p></td>
-<td><p>2010.</p></td>
-<td><p>24</p></td>
-<td><p>19h</p></td>
-<td><p>EVST 255</p></td>
-<td><p>Can law change human behavior to be less environmentally
-damaging? Law will be examined through case histories including:
-environmental effects of national security, pesticides, air pollution,
-consumer products, plastics, parks and protected area management, land
-use, urban growth and sprawl, public/private transit, drinking water
-standards, food safety, and hazardous site restoration. In each case we
-will review the structure of law and evaluate its strengths and
-weaknesses.</p></td>
-<td><p><a
-href="https://www.youtube.com/playlist?list=PL84DCD72C5B5DC403">Youtube
-list</a></p></td>
-<td><p><a href="https://oyc.yale.edu/environmental-studies/evst-255">Web
-page</a></p></td>
-</tr>
-</tbody>
+    <tr class="even">
+        <td rowspan="2"><strong>The Moral Foundations of Politics</strong></td>
+        <td><a href="Yale_University" title="wikilink">Yale University</a></td>
+        <td><a href="Ian_Shapiro" title="wikilink">Ian Shapiro</a></td>
+        <td>English</td>
+        <td>2010</td>
+        <td>25</td>
+        <td>20h</td>
+        <td>PLSC 118</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL2FD48CE33DFBEA7E">Youtube list</a></td>
+        <td><a href="https://oyc.yale.edu/political-science/plsc-118/lecture-1">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">Examining when governments deserve allegiance, the course surveys major political theories of the Enlightenment, their historical context, contemporary debates, and practical implications.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>Political Science 30: Politics and Strategy</strong></td>
+        <td><a href="UCLA" title="wikilink">UCLA</a></td>
+        <td><a href="Kathleen_Bawn" title="wikilink">Kathleen Bawn</a></td>
+        <td>English</td>
+        <td>2008</td>
+        <td>19</td>
+        <td>21h</td>
+        <td>POL SCI 30</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLF420ADB3E328425A">Youtube list</a></td>
+        <td></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">Introduction to strategic interaction in political applications, including the use of game theory and formal modeling strategies to understand and evaluate political strategies.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="even">
+        <td rowspan="2"><strong>Capitalism: Success, Crisis, and Reform</strong></td>
+        <td><a href="Yale_University" title="wikilink">Yale University</a></td>
+        <td><a href="Douglas_W._Rae" title="wikilink">Douglas W. Rae</a></td>
+        <td>English</td>
+        <td>2009</td>
+        <td>23</td>
+        <td>18h</td>
+        <td>PLSC 270</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL2497FD1251EED4DD">Youtube list</a></td>
+        <td><a href="https://oyc.yale.edu/political-science/plsc-270">Web page</a></td>
+    </tr>
+    <tr class="even">
+        <td colspan="9">Interpreting capitalism through ideas from biological evolution, examining its successes, crises, reforms, and how it can be shaped to fit specific objectives like environmental conservation, public health, and poverty alleviation.</td>
+    </tr>
+</table>
+
+<table>
+    <tr class="odd">
+        <td rowspan="2"><strong>Environmental Politics and Law</strong></td>
+        <td><a href="Yale_University" title="wikilink">Yale University</a></td>
+        <td><a href="John_Wargo" title="wikilink">John Wargo</a></td>
+        <td>English</td>
+        <td>2010</td>
+        <td>24</td>
+        <td>19h</td>
+        <td>EVST 255</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL84DCD72C5B5DC403">Youtube list</a></td>
+        <td><a href="https://oyc.yale.edu/environmental-studies/evst-255">Web page</a></td>
+    </tr>
+    <tr class="odd">
+        <td colspan="9">Examining the role of law in environmental management and policy, analyzing case histories in national security, pesticides, air pollution, consumer products, and other areas to evaluate the effectiveness of law in environmental protection.</td>
+    </tr>
 </table>
 
 ## Psychology
