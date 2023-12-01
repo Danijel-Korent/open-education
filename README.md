@@ -8,6 +8,11 @@ Listed are only courses that are:
 - Which are full university courses (i.e. not tutorials and similar
   forms of shorter lectures/instructions)
 
+Stats:
+
+- Number of courses: >100
+- Total length of all courses: >2574h
+
 ## Biology
 
 <table>
@@ -345,7 +350,7 @@ duration</p></th>
 <tr class="odd">
     <td colspan="9">This course provides an introduction to mathematical modeling of computational problems. It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems. The course emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems.</td>
 </tr>
-
+</table>
 
 <table>
 <tr class="even">
@@ -525,6 +530,7 @@ duration</p></th>
 <tr class="odd">
     <td colspan="9">This course provides a broad introduction to machine learning and statistical pattern recognition. Topics include: supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); unsupervised learning (clustering, dimensionality reduction, kernel methods); learning theory (bias/variance tradeoffs, practical advice); reinforcement learning and adaptive control. The course will also discuss recent applications of machine learning, such as to robotic control, data mining, autonomous navigation, bioinformatics, speech recognition, and text and web data processing.</td>
 </tr>
+</table>
 
 <table>
     <tr class="even">
@@ -1979,8 +1985,8 @@ duration</p></th>
         <td colspan="9">Course aims to develop innovations in information systems for improving health outcomes and strengthening organizational infrastructure. Taught by experts, it addresses challenges in health information systems in developing countries.</td>
     </tr>
 </table>
-
 <table>
+
     <tr class="even">
         <td rowspan="2"><strong>Nuclear Systems Design Project</strong></td>
         <td><a href="Massachusetts_Institute_of_Technology" title="wikilink">MIT</a></td>
